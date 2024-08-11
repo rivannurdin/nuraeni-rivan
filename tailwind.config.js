@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     screens: {
-      'tablet': '640px',
-      'laptop': '1024px',
-      'desktop': '1280px',
+      'max-sm': '550px',
+      'max-md': '768px',
+      'max-lg': '1024px',
     },
     // colors: {
     //   'black': '#000',
