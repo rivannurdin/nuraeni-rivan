@@ -1,3 +1,29 @@
 @tailwind base;
+@layer base {
+    html {
+        /* @apply font-sans; */
+    }
+    body {
+        @apply bg-zinc-900;
+        @apply text-zinc-400;
+        @apply leading-relaxed;
+        @apply antialiased;
+        @apply selection:bg-teal-300;
+        @apply selection:text-teal-900;
+    }
+    a {
+        @apply text-zinc-100;
+        @apply font-medium;
+    }
+
+    a:hover {
+        @apply text-teal-300;
+    }
+}
 @tailwind components;
 @tailwind utilities;
+
+
+.janaxzaj {
+    background-color: #00c4e3;
+}
