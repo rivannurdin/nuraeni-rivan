@@ -8,10 +8,10 @@ defineProps({
 const count = ref(0)
 </script>
 
-<template>
+<template>    
     <div class="intro text-light py-32 font-light text-zinc-200">
-        <h1 class="text-4xl tracking-wide leading-relaxed my-20">{{ msg }}</h1>
-        <h2 class="text-4xl tracking-wide leading-relaxed my-20 max-w-3xl">I'm <span class="font-bold">Bambang</span>, a back-end software engineer with a talent for developing efficient systems and robust infrastructures that enhance seamless user experiences 😎</h2>
+        <h1 class="max-lg:text-4xl max-md:text-3xl max-sm:text-3xl max-lg:tracking-wide max-md:tracking-wide max-sm:tracking-wide max-lg:leading-relaxed max-md:leading-relaxed max-sm:leading-relaxed my-20">{{ msg }}</h1> 
+        <h2 class="max-lg:text-4xl max-md:text-3xl max-sm:text-3xl max-lg:tracking-wide max-md:tracking-wide max-sm:tracking-wide max-lg:leading-relaxed max-md:leading-relaxed max-sm:leading-relaxed my-20 max-w-3xl">I'm <span class="font-bold">Rivan Nurdin</span>, a back-end software engineer with a talent for developing efficient systems and robust infrastructures that enhance seamless user experiences 😎</h2> 
         <h3 class="text-xl my-20">Get in touch 👉 <a class="text" href="mailto:rivancodes@gmail.com">rivancodes@gmail.com</a></h3>
     </div>
 </template>
