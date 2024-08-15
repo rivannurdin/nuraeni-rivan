@@ -17,10 +17,10 @@ const count = ref(0)
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://www.gravitasi.co.id/" target="_blank">Gravitasi</a></p>
-                <p>Senior Back End Engineer</p>
+                <p class="text-sm lg:text-base">Senior Back End Engineer</p>
               </div>
               <div>
-                <p class="text-right font-mono text-sm">Jul 2022 – Present</p>
+                <p class="text-right font-mono text-xs lg:text-sm">Jul 2022 – Present</p>
               </div>
             </div>
           </div>
@@ -28,10 +28,10 @@ const count = ref(0)
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://www.linkedin.com/company/pt-hms/about/" target="_blank">Hexa Maju Samasta</a></p>
-                <p>Back End Developer</p>
+                <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
               <div>
-                <p class="text-right font-mono text-sm">Nov 2019 – Jul 2021</p>
+                <p class="text-right font-mono text-xs lg:text-sm">Nov 2019 – Jul 2021</p>
               </div>
             </div>
           </div>
@@ -39,10 +39,10 @@ const count = ref(0)
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://commonroom.info" target="_blank">Common Room Networks Foundation</a></p>
-                <p>Technical Staff</p>
+                <p class="text-sm lg:text-base">Technical Staff</p>
               </div>
               <div>
-                <p class="text-right font-mono text-sm">Jul - Oct 2023</p>
+                <p class="text-right font-mono text-xs lg:text-sm">Jul - Oct 2023</p>
               </div>
             </div>
           </div>
@@ -50,10 +50,10 @@ const count = ref(0)
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="http://exaditama.id/" target="_blank">Exaditama Teknologi Kreativa</a></p>
-                <p>Back End Developer</p>
+                <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
               <div>
-                <p class="text-right font-mono text-sm">May - Oct 2019    </p>
+                <p class="text-right font-mono text-xs lg:text-sm">May - Oct 2019    </p>
               </div>
             </div>
           </div>
@@ -61,17 +61,17 @@ const count = ref(0)
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium">Exa Aditama Internasional</p>
-                <p>Back End Developer</p>
+                <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
               <div>
-                <p class="text-right font-mono text-sm">Jun 2017 - Dec 2018</p>
+                <p class="text-right font-mono text-xs lg:text-sm">Jun 2017 - Dec 2018</p>
               </div>
             </div>
           </div>
 
           <div class="grid grid-rows-1 mt-20 ">
             <div class="grid grid-cols-2">
-              <div>
+              <div class="col-span-2">
                 <p class="text-zinc-100 font-medium text-lg"> <a href="/resume.pdf" target="_blank">👉 View My Resume</a></p>
               </div>
             </div>
