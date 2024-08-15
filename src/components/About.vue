@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>    
-    <div class="about py-20 md:py-32 lg:py-32">
+    <div class="about py-20 md:py-30 lg:py-30">
       <div class="grid grid-cols-4">
         <div class="text-teal-300 text-left lg:text-right font-medium mb-5 lg:mb-0 col-span-4 lg:col-auto">BACKGOUND</div>
         <div class="col-span-4 lg:col-span-3 px-5 lg:px-10 max-w-3xl">

@@ -5,6 +5,7 @@ import Header from './components/Header.vue';
 import About from './components/About.vue';
 import Skill from './components/Skills.vue'
 import Experience from './components/Experience.vue'
+import Featured from './components/Featured.vue';
 
 </script>
 
@@ -16,5 +17,6 @@ import Experience from './components/Experience.vue'
     <About/>
     <Skill/>
     <Experience/>
+    <Featured/>
   </div>
 </template>

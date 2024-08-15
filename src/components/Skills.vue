@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>    
-    <div class="skills py-20 md:py-32 lg:py-32">
+    <div class="skills py-20 md:py-30 lg:py-30">
       <div class="grid grid-cols-3 lg:grid-cols-4">
         <div class="text-teal-300 text-left lg:text-right font-medium mb-5 lg:mb-0 row-span-0 lg:row-span-2 col-span-3 lg:col-auto">SKILLS</div>
         <div class="px-5 lg:px-10 mb-5 lg:mb-0 ">

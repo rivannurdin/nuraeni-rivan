@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>    
-    <div class="experience py-20 md:py-32 lg:py-32">
+    <div class="experience py-20 md:py-30 lg:py-30">
       <div class="grid grid-cols-3 lg:grid-cols-4">
         <div class="font-medium text-teal-300 text-left lg:text-right mb-5 lg:mb-0 col-4 col-span-5 lg:col-auto">EXPERIENCE</div>
         <div class="px-5 lg:px-10 col-span-3 lg:col-span-3">
@@ -65,6 +65,14 @@ const count = ref(0)
               </div>
               <div>
                 <p class="text-right font-mono text-sm">Jun 2017 - Dec 2018</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="grid grid-rows-1 mt-20 ">
+            <div class="grid grid-cols-2">
+              <div>
+                <p class="text-zinc-100 font-medium text-lg"> <a href="/resume.pdf" target="_blank">👉 View My Resume</a></p>
               </div>
             </div>
           </div>
