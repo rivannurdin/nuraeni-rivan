@@ -4,6 +4,8 @@ import Intro from './components/Intro.vue';
 import Header from './components/Header.vue';
 import About from './components/About.vue';
 import Skill from './components/Skills.vue'
+import Experience from './components/Experience.vue'
+
 </script>
 
 <template>
@@ -13,6 +15,6 @@ import Skill from './components/Skills.vue'
     <Intro msg="Hello! 👋" />
     <About/>
     <Skill/>
-    <!-- <HelloWorld msg="Vite + Vue" /> -->
+    <Experience/>
   </div>
 </template>

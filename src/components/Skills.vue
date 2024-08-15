@@ -20,9 +20,11 @@ const count = ref(0)
         </div>
         <div class="px-5 md:px-5 lg:px-10">
           <p class="mb-2 text-zinc-100 font-medium">FRONT-END</p>
+          <p>React</p>
+          <p>Vue</p>
           <p>JQuery</p>
-          <p>Bootstrap/ Tailwind</p>
-          <p>React/ Vue</p>
+          <p>Bootstrap</p>
+          <p>Tailwind</p>
         </div>
         <div class="px-5 lg:px-10">
           <p class="mb-2 text-zinc-100 font-medium">DATABASE</p>
