@@ -5,6 +5,7 @@ import Skill from './components/Skills.vue'
 import Experience from './components/Experience.vue'
 import Featured from './components/Featured.vue';
 import Projects from './components/Projects.vue';
+import Footer from './components/Footer.vue'
 
 </script>
 
@@ -17,4 +18,5 @@ import Projects from './components/Projects.vue';
     <Featured/>
     <Projects/>
   </div>
+  <Footer/>
 </template>
