@@ -1,6 +1,6 @@
 # Personal Website v3
 
-Welcome to my personal website v3, built with [Vite + Vue 3](https://vitejs.dev), and styled with Tailwind CSS.
+Welcome to my personal website v3, built with [Vite + Vue 3](https://vitejs.dev), and styled with [Tailwind CSS](https://tailwindcss.com).
 
 ## Overview
 
