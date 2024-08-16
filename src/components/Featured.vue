@@ -23,7 +23,7 @@ const count = ref(0)
               </div>
               <div class="col-span-6 lg:col-auto">
                 <p class="text-zinc-100 font-medium mt-5 lg:mt-0">KMOB Platform</p>
-                <p class="font-mono text-xs">The Depok City Government uses KMOB as the core platform to connect over 5,000 employees working from offices, homes, and in the field.</p>
+                <p class="font-mono text-sm">The Depok City Government uses KMOB as the core platform to connect over 5,000 employees working from offices, homes, and in the field.</p>
               </div>
             </div>
           </div>
@@ -37,10 +37,10 @@ const count = ref(0)
               </div>
               <div class="col-span-6 lg:col-auto mt-5 lg:mt-0">
                 <p class="text-zinc-100 font-medium">Djangkep</p>
-                <p class="font-mono text-xs">Developed specifically for villages that wish to facilitate community services in submitting letters.</p>
+                <p class="font-mono text-sm">Developed specifically for villages that wish to facilitate community services in submitting letters.</p>
               </div>
             </div>
-          </  div>
+          </div>
 
           <div class="grid grid-rows-1 mb-20">
             <div class="grid grid-cols-6">
@@ -49,9 +49,9 @@ const count = ref(0)
                   <img src="/src/assets/img/projects/mobooking.jpeg" alt="">
                 </a>
               </div>
-              <div class="col-span-6 lg:col-auto">
+              <div class="col-span-6 lg:col-auto mt-5 lg:mt-0">
                 <p class="text-zinc-100 font-medium">Mobooking</p>
-                <p class="font-mono text-xs">Mobooking is an online business application to help small, medium and growing businesses make marketing, operational and customer management easier.</p>
+                <p class="font-mono text-sm">Business application to help small, medium and growing businesses make marketing, operational and customer management easier.</p>
               </div>
             </div>
           </div>
