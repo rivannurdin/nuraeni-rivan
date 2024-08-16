@@ -212,7 +212,7 @@
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Tailwind
+                      Tailwindcss
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
