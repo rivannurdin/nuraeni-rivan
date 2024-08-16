@@ -12,8 +12,8 @@
                 <p class="text-zinc-100 font-medium"><a href="https://www.gravitasi.co.id/" target="_blank">Gravitasi</a></p>
                 <p class="text-sm lg:text-base">Senior Back End Engineer</p>
               </div>
-              <div>
-                <p class="text-right font-mono text-xs lg:text-sm">Jul 2022 – Present</p>
+              <div class="text-right">
+                <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jul 2022 – Present</p>
               </div>
             </div>
           </div>
@@ -23,8 +23,8 @@
                 <p class="text-zinc-100 font-medium"><a href="https://www.linkedin.com/company/pt-hms/about/" target="_blank">Hexa Maju Samasta</a></p>
                 <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
-              <div>
-                <p class="text-right font-mono text-xs lg:text-sm">Nov 2019 – Jul 2021</p>
+              <div class="text-right">
+                <p class="font-mono text-xs lg:text-sm inline-block align-middle">Nov 2019 – Jul 2021</p>
               </div>
             </div>
           </div>
@@ -34,8 +34,8 @@
                 <p class="text-zinc-100 font-medium"><a href="https://commonroom.info" target="_blank">Common Room Networks Foundation</a></p>
                 <p class="text-sm lg:text-base">Technical Staff</p>
               </div>
-              <div>
-                <p class="text-right font-mono text-xs lg:text-sm">Jul - Oct 2023</p>
+              <div class="text-right">
+                <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jul - Oct 2023</p>
               </div>
             </div>
           </div>
@@ -45,8 +45,8 @@
                 <p class="text-zinc-100 font-medium"><a href="http://exaditama.id/" target="_blank">Exaditama Teknologi Kreativa</a></p>
                 <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
-              <div>
-                <p class="text-right font-mono text-xs lg:text-sm">May - Oct 2019    </p>
+              <div class="text-right">
+                <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">May - Oct 2019    </p>
               </div>
             </div>
           </div>
@@ -56,8 +56,8 @@
                 <p class="text-zinc-100 font-medium">Exa Aditama Internasional</p>
                 <p class="text-sm lg:text-base">Back End Developer</p>
               </div>
-              <div>
-                <p class="text-right font-mono text-xs lg:text-sm">Jun 2017 - Dec 2018</p>
+              <div class="text-right">
+                <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jun 2017 - Dec 2018</p>
               </div>
             </div>
           </div>
