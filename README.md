@@ -2,8 +2,6 @@
 
 Welcome to my personal website v3, built with [Vite + Vue 3](https://vitejs.dev), and styled with Tailwind CSS.
 
-Visit [Profile Page V2](https://rivannurdin.github.io) for preview.
-
 ## Overview
 
 This project showcases my personal portfolio, including information about my skills, projects, and contact details. It was developed using modern web technologies to provide a fast and responsive user experience.
@@ -50,7 +48,8 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-The website is automatically deployed to GitHub Pages. Example: https://<USERNAME>.github.io.
+The website is automatically deployed to GitHub Pages. For example [https://rivannurdin.github.io](https://rivannurdin.github.io).
+
 For detailed instructions on deploying to GitHub Pages using Vite, you can read the documentation here: [Vite Static Deployment Guide](https://vitejs.dev/guide/static-deploy).
 
 
