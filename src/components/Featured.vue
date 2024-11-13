@@ -17,6 +17,7 @@
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Lumen (Laravel)</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PostgreSQL</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Minio Storage</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Google Maps API</div></li>
@@ -33,7 +34,8 @@
               <p class="font-mono text-sm">A digital signature application platform for submitting letters of certification in  <a href="https://tembok-buleleng.desa.id/index.php/first" target="_blank">Desa Tembok, Buleleng, Bali</a>. This platform allows residents to easily request certification letters, which will then be issued by the village government.</p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
-                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Laravel</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Laravel 8</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PostgreSQL</div></li>
                 </ul>
             </div>
@@ -49,6 +51,7 @@
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Laravel</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PostgreSQL</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Google API</div></li>
                 </ul>

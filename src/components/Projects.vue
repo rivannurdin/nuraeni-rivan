@@ -6,6 +6,21 @@
       <div class="grid grid-cols-3 lg:grid-cols-4">
         <div class="font-medium text-teal-300 text-left lg:text-right mb-5 lg:mb-0 col-4 col-span-5 lg:col-auto">OTHER PROJECTS</div>
         <div class="px-5 lg:px-10 col-span-3 lg:col-span-3">
+
+          <div class="grid grid-rows-1 mb-10">
+            <div class="grid grid-cols-1">
+                <p class="text-zinc-100 font-medium mb-2 max-w-2xl">
+                  <a href="https://github.com/rivannurdin/laravel11-api.git" target="_blank"><span class="inline-block">Laravel 11 REST API Authentication with JWT <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd"></path></svg></span>
+                  </a>
+                </p>
+                <p class="font-mono text-sm mb-2 max-w-2xl">This project is a starter template for building a Laravel 11 REST API with JWT (JSON Web Token) authentication. It provides endpoints for user login, retrieving user information, and logging out. The project is intended to serve as a boilerplate and has been uploaded to GitHub as a public repository.</p>
+                <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Laravel 11</div></li>
+                </ul>
+            </div>
+          </div>
           
           <div class="grid grid-rows-1 mb-10">
             <div class="grid grid-cols-1">
@@ -60,6 +75,7 @@
                 <p class="font-mono text-sm mb-2 max-w-2xl">This application is only used in the <a href="http://sppk.kemendag.go.id" target="_blank">Metrology environment</a>, especially the city of Bandung, which is to facilitate the assessment process for letters and related documents.</p>
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Lumen (Laravel)</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PostgreSQL</div></li>
                 </ul>
@@ -75,6 +91,7 @@
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Laravel</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">S3 Storage</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PostgreSQL</div></li>
                 </ul>
@@ -92,8 +109,7 @@
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Phalcon</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">MySQL</div></li>
-                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">HTML</div></li>
-                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">CSS</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">HTML/CSS</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">JQuery</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Javascript</div></li>
                 </ul>
@@ -110,6 +126,7 @@
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">PHP</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">Phalcon</div></li>
+                  <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">REST API</div></li>
                   <li class="mr-1.5 mt-2"><div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">MySQL</div></li>
                 </ul>
             </div>
