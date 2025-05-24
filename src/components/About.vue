@@ -6,9 +6,10 @@
       <div class="grid grid-cols-4">
         <div class="text-teal-300 text-left lg:text-right font-medium mb-5 lg:mb-0 col-span-4 lg:col-auto">BACKGROUND</div>
         <div class="col-span-4 lg:col-span-3 px-5 lg:px-10 max-w-3xl">
-          <p class="mb-5">I'm currently an engineer at <a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a>, where I contribute to developing and maintenance the <a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok/" target="_blank">KMOB Platform</a> for the Depok City Government and I recently graduated in 2024 with a Bachelor of Computer Science (B.C.Sc.) degree in Information Technology from <a href="https://ars.ac.id" target="_blank">ARS University</a>.</p>
-          <p class="mb-5">I embarked on my journey as a Backend Developer in 2017, and over the past six years, I've honed my expertise in crafting robust management APIs. Currently, I'm expanding my skill set by diving into cutting-edge technologies like Python and Node.js.</p>
-          <p>Crafting stories at <a href="https://www.instagram.com/mortalveil.art" target="_blank">Mortalveil</a>, a Punk Masterpiece, is where I channel creativity into rebellious narratives and innovative projects. It embodies a fusion of raw energy and thought-provoking content.</p>
+          <p class="mb-5">I’m currently an engineer at <a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a>, where I contribute to the development and maintenance of the <a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok/" target="_blank">KMOB Platform</a> for the Depok City Government. In 2024, I earned my Bachelor of Computer Science (B.C.Sc.) in Information Technology from <a href="https://ars.ac.id" target="_blank">ARS University</a>.</p>
+          <p class="mb-5">I Since beginning my career as a Backend Developer in 2017, I’ve built strong expertise in designing reliable and scalable backend systems, with a specialization in RESTful API development and complex data management. Over the past six years, I’ve consistently overseen the performance, reliability, and scalability of various digital products and projects.</p>
+          <p class="mb-5">Now, I’m expanding my professional focus into the world of Data Analysis — blending technical proficiency with data-driven insights to drive meaningful impact. I'm also deepening my skills in modern technologies like Python and Node.js.</p>
+          <p>Beyond the technical realm, I channel my creativity through <a href="https://www.instagram.com/mortalveil.official" target="_blank">Mortalveil</a>, a Punk Masterpiece — <br> a space where rebellious narratives meet innovative expression.</p>
         </div>
       </div>
     </div>

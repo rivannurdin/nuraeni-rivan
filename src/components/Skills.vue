@@ -9,26 +9,26 @@
           
           <div class="grid grid-rows-1 mb-10 max-w-xl">
             <div class="grid grid-cols-1">
-                <p class="text-zinc-100 font-medium">Languages</p>
+                <p class="text-zinc-100 font-medium">Backend</p>
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      PHP
+                      PHP (Laravel, Lumen, Phalcon)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Node.js
+                      Node.js (Express.js)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Python
+                      Python (FastAPI, Flask, Django)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      C#
+                      C# (ASP.NET Core)
                     </div>
                   </li>
                 </ul>
@@ -37,56 +37,31 @@
 
           <div class="grid grid-rows-1 mb-10 max-w-xl">
             <div class="grid grid-cols-1">
-                <p class="text-zinc-100 font-medium">Frameworks</p>
+                <p class="text-zinc-100 font-medium">Frontend</p>
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Laravel/ Lumen
+                      jQuery
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Phalcon
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      CodeIgniter
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Express.js
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Django
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Fastapi
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Flask
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      ASP.NET Core
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Vue.js
+                      Bootstrap
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       React.js
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Vite
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Vue.js
                     </div>
                   </li>
                 </ul>
@@ -121,108 +96,123 @@
                 <p class="text-zinc-100 font-medium">Tools, Library & Other Platform</p>
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Apache
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Azure
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Firebase
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Figma
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Flowchart
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Flowcharting
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      GIT
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Git (GitHub, GitLab)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Github
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Google APIs
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Gitlab
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Google Docs
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Google Spreadsheets
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Jira
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      JWT Auth
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      OAuth 2.0
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       pgAdmin4
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Postman
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Project/Product Management
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Project & Product Management
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      REST APIs
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      REST API Development
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       S3 Storage
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Scrum
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Scrum Methodology
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Swagger
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Tailwindcss
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      TablePlus
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Tailwind CSS
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Trello
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300 ">
-                      Wordpress
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Visual Studio Code
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      WordPress
                     </div>
                   </li>
 
