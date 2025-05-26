@@ -10,7 +10,7 @@
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://www.gravitasi.co.id/" target="_blank">Gravitasi</a></p>
-                <p class="text-sm lg:text-base">Senior Back End Engineer</p>
+                <p class="text-sm lg:text-base">Head of Backend</p>
               </div>
               <div class="text-right">
                 <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jul 2022 – Present</p>
@@ -21,14 +21,14 @@
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://www.linkedin.com/company/pt-hms/about/" target="_blank">Hexa Maju Samasta</a></p>
-                <p class="text-sm lg:text-base">Back End Developer</p>
+                <p class="text-sm lg:text-base">Backend Developer</p>
               </div>
               <div class="text-right">
                 <p class="font-mono text-xs lg:text-sm inline-block align-middle">Nov 2019 – Jul 2021</p>
               </div>
             </div>
           </div>
-          <div class="grid grid-rows-1 mb-8">
+          <!-- <div class="grid grid-rows-1 mb-8">
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://commonroom.info" target="_blank">Common Room Networks Foundation</a></p>
@@ -38,12 +38,12 @@
                 <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jul - Oct 2023</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="grid grid-rows-1 mb-8">
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="http://exaditama.id/" target="_blank">Exaditama Teknologi Kreativa</a></p>
-                <p class="text-sm lg:text-base">Back End Developer</p>
+                <p class="text-sm lg:text-base">Backend Developer</p>
               </div>
               <div class="text-right">
                 <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">May - Oct 2019    </p>
@@ -54,7 +54,7 @@
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium">Exa Aditama Internasional</p>
-                <p class="text-sm lg:text-base">Back End Developer</p>
+                <p class="text-sm lg:text-base">Backend Developer</p>
               </div>
               <div class="text-right">
                 <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jun 2017 - Dec 2018</p>
