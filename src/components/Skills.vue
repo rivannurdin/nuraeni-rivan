@@ -23,12 +23,17 @@
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Python (FastAPI, Flask, Django)
+                      Python (Django, Flask, FastAPI)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       C# (ASP.NET Core)
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Java (Spring Boot)
                     </div>
                   </li>
                 </ul>
@@ -41,12 +46,7 @@
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      jQuery
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Bootstrap
+                      Laravel Blade
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
@@ -84,7 +84,32 @@
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      MariaDB
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Microsoft SQL Server
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Oracle
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      MongoDB
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Redis
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Firebase
                     </div>
                   </li>
                 </ul>
@@ -93,7 +118,7 @@
 
           <div class="grid grid-rows-1 mb-10 max-w-xl">
             <div class="grid grid-cols-1">
-                <p class="text-zinc-100 font-medium">Tools, Library & Other Platform</p>
+                <p class="text-zinc-100 font-medium">Tech Stack & Development Tools</p>
                 <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
@@ -103,6 +128,16 @@
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Azure
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      Bootstrap
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      CI/CD Pipelines (GitHub Actions, GitLab CI, Jenkins)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
@@ -122,22 +157,17 @@
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Git (GitHub, GitLab)
+                      Git
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Google APIs
+                      GitHub
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Google Docs
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      Google Spreadsheets
+                      GitLab
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
@@ -147,12 +177,17 @@
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      JWT Auth
+                      jQuery
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      OAuth 2.0
+                      Microservices
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      MVC (Model-View-Controller)
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
@@ -168,6 +203,11 @@
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Project & Product Management
+                    </div>
+                  </li>
+                  <li class="mr-1.5 mt-2">
+                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
+                      PHPUnit
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">
@@ -188,11 +228,6 @@
                   <li class="mr-1.5 mt-2">
                     <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
                       Swagger
-                    </div>
-                  </li>
-                  <li class="mr-1.5 mt-2">
-                    <div class="flex items-center rounded-md bg-teal-400/10 px-3 py-1 text-sm font-medium leading-5 text-teal-300">
-                      TablePlus
                     </div>
                   </li>
                   <li class="mr-1.5 mt-2">

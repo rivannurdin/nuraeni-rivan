@@ -11,7 +11,7 @@ import Footer from './components/Footer.vue'
 
 <template>
   <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
-    <Intro msg="Hi 👋" />
+    <Intro msg="Hi 👋" intro="a backend software engineer with a passion for building efficient systems and rock-solid infrastructures that power smooth, scalable, and seamless digital experiences 😎"/>
     <About/>
     <Skill/>
     <Experience/>

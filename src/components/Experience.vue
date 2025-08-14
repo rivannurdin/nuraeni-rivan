@@ -10,10 +10,10 @@
             <div class="grid grid-cols-2">
               <div>
                 <p class="text-zinc-100 font-medium"><a href="https://www.gravitasi.co.id/" target="_blank">Gravitasi</a></p>
-                <p class="text-sm lg:text-base">Head of Backend</p>
+                <p class="lg:text-base">Backend Engineer</p>
               </div>
               <div class="text-right">
-                <p class="text-right font-mono text-xs lg:text-sm inline-block align-middle">Jul 2022 – Present</p>
+                <p class="font-mono text-xs lg:text-sm inline-block align-middle">Aug 2022 – Jul 2025</p>
               </div>
             </div>
           </div>
