@@ -1,10 +1,6 @@
-# Personal Website v3
+# Wedding Invitation
 
-Welcome to my personal website v3, built with [Vite + Vue 3](https://vitejs.dev), and styled with [Tailwind CSS](https://tailwindcss.com).
-
-## Overview
-
-This project showcases my personal portfolio, including information about my skills, projects, and contact details. It was developed using modern web technologies to provide a fast and responsive user experience.
+Built with [Vite + Vue 3](https://vitejs.dev), and styled with [Tailwind CSS](https://tailwindcss.com).
 
 ## Features
 
