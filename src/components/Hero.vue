@@ -20,7 +20,7 @@
       />
     </div>
 
-    <img :src="NR" alt="NR" class="w-36 md:w-36 mx-auto opacity-80 mb-40">
+    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
 
     <p class="text-2xl md:text-4xl text-gray-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
@@ -29,18 +29,18 @@
         {{ coupleNames }}
       </h1>
 
-      <p class="text-md md:text-3xl font-light mb-4 md:mb-24 text-gray-300 animate-fade-in-delay">
+      <!-- <p class="text-md md:text-3xl font-light mb-4 md:mb-24 text-gray-300 animate-fade-in-delay">
         Minggu, 12 Oktober 2025
-      </p>
+      </p> -->
 
-      <p class="text-md md:text-lg font-light mb-2 object-right text-gray-300 animate-fade-in-delay hidden md:block">
+      <p class="text-md md:text-lg font-light mb-2 md:mt-14 object-right text-gray-300 animate-fade-in-delay hidden md:block">
         Mengundang dengan penuh rasa bahagia
       </p>
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
       <a href="#event" class="px-6 py-3 rounded-full bg-white text-black font-semibold shadow-lg hover:bg-gray-200 transition transform hover:scale-105">
-        <i class="fa-solid fa-envelope-open mr-2"></i> Buka Undangan
+        <i class="fa-solid fa-envelope-open mr-2"></i>Lihat
       </a>
     </div>
   </section>

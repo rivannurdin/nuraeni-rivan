@@ -4,7 +4,7 @@
       class="py-16 px-6 text-center bg-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-6 animate-fade-in">
-        Wedding Gift
+        Kirim Hadiah/Gift
       </h2>
   
       <p class="max-w-xl mx-auto text-lg font-light mb-10 animate-fade-in-delay">
@@ -17,7 +17,7 @@
         class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto animate-fade-in-delay"
       >
         <!-- Rekening -->
-        <div class="border border-white/10 rounded-xl p-6 shadow-lg text-left hover:bg-gray-900 hover:bg-opacity-90">
+        <div class="border border-white/10 rounded-2xl p-6 shadow-lg text-left">
           <h3 class="text-xl font-semibold mb-3">Transfer Bank</h3>
           <p class="mb-1 font-medium">Bank BRI</p>
           <p class="mb-1 font-semibold">346901080776535</p>

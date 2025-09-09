@@ -9,7 +9,7 @@
           </p>
 
           <h2 class="text-3xl md:text-4xl font-bold mb-4 animate-fade-in-delay">
-            Rivan Nurdin & Nuraenia Astuti
+            Nuraeni Astuti & Rivan Nurdin
           </h2>
       
           <p class="text-lg font-light italic animate-fade-in-delay">
