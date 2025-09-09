@@ -1,7 +1,7 @@
 <template>
     <section
       id="gift"
-      class="py-16 px-6 text-center bg-black text-white md:mb-10"
+      class="py-16 px-6 text-center bg-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-6 animate-fade-in">
         Wedding Gift
@@ -17,7 +17,7 @@
         class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto animate-fade-in-delay"
       >
         <!-- Rekening -->
-        <div class="bg-gray-900 rounded-xl p-6 shadow-lg bg-opacity-90 text-left">
+        <div class="border border-white/10 rounded-xl p-6 shadow-lg text-left hover:bg-gray-900 hover:bg-opacity-90">
           <h3 class="text-xl font-semibold mb-3">Transfer Bank</h3>
           <p class="mb-1 font-medium">Bank BRI</p>
           <p class="mb-1 font-semibold">346901080776535</p>
@@ -32,7 +32,7 @@
   
         <!-- Alamat Rumah -->
 
-        <div class="bg-gray-900 rounded-xl p-6 shadow-lg bg-opacity-90 text-left">
+        <div class="border border-white/10 rounded-xl p-6 shadow-lg text-left">
           <h3 class="text-xl font-semibold mb-3">Alamat Rumah</h3>
           <p class="mb-4">KP. Ciwidara RT 05 RW 14, Desa/Kecamatan Pangalengan, Kabupaten Bandung</p>
           <button

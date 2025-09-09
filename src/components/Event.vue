@@ -13,12 +13,12 @@
           <h3 class="text-xl font-semibold mb-3">Akad</h3>
           <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
           <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB</p>
-          <p class="mb-4"><i class="fa-solid fa-location-dot mr-2"></i> KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
+          <p class="mb-4"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
           <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
             target="_blank"
             rel="noopener noreferrer"
             class="px-4 py-2 bg-white text-black rounded-full text-sm font-semibold hover:bg-gray-200 transition">
-            Google Maps
+            <i class="fa-solid fa-location-dot mr-2"></i>Google Maps
           </a>
         </div>
 
@@ -26,12 +26,12 @@
           <h3 class="text-xl font-semibold mb-3">Resepsi</h3>
           <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
           <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>11:00 WIB - Selesai</p>
-          <p class="mb-4"><i class="fa-solid fa-location-dot mr-2"></i> KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
+          <p class="mb-4"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
           <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
             target="_blank"
             rel="noopener noreferrer"
             class="px-4 py-2 bg-white text-black rounded-full text-sm font-semibold hover:bg-gray-200 transition">
-            Google Maps
+            <i class="fa-solid fa-location-dot mr-2"></i>Google Maps
           </a>
         </div>
         

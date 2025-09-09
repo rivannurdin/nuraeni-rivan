@@ -1,7 +1,7 @@
 <template>
     <section
       id="doa"
-      class="py-16 px-6 bg-gradient-to-b from-gray-900 to-black text-white border-t border-white/10"
+      class="py-16 px-6 bg-gradient-to-b from-gray-900 to-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
         Doa & Ucapan
@@ -10,7 +10,7 @@
       <!-- Form Ucapan -->
       <form
         @submit.prevent="addUcapan"
-        class="max-w-2xl mx-auto bg-white/10 rounded-2xl p-6 shadow-lg mb-12 animate-fade-in-delay"
+        class="max-w-3xl mx-auto mb-12 animate-fade-in-delay"
       >
         <div class="mb-4">
           <input

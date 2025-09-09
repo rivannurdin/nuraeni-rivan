@@ -1,5 +1,5 @@
 <template>
-  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black text-white overflow-hidden md:mb-40">
+  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black text-white overflow-hidden">
     <div class="absolute inset-0 flex justify-center items-center -z-20 opacity-10">
       <div class="w-[600px] h-[600px] rounded-full bg-white blur-3xl"></div>
     </div>
@@ -39,8 +39,8 @@
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
-      <a href="#event" class="px-8 py-3 rounded-full bg-white text-black font-semibold shadow-lg hover:bg-gray-200 transition transform hover:scale-105">
-        Buka Undangan
+      <a href="#event" class="px-6 py-3 rounded-full bg-white text-black font-semibold shadow-lg hover:bg-gray-200 transition transform hover:scale-105">
+        <i class="fa-solid fa-envelope-open mr-2"></i> Buka Undangan
       </a>
     </div>
   </section>

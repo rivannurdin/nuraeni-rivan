@@ -1,30 +1,7 @@
 <template>
-    <footer
-      id="closing"
-      class="py-16 px-6 bg-black text-white text-center border-t border-white/10"
-    >
-      <!-- Ucapan -->
-      <p class="text-xl md:text-2xl font-light mb-6 animate-fade-in">
-        Merupakan suatu kebahagiaan dan kehormatan bagi kami apabila Bapak/Ibu/
-        Saudara/i berkenan hadir serta memberikan doa restu.
-      </p>
-  
-      <!-- Nama Pasangan -->
-      <h2
-        class="text-3xl md:text-4xl font-bold mb-4 animate-fade-in-delay"
-      >
-        Rivan Nurdin & Nuraenia Astuti
-      </h2>
-  
-      <!-- Terima Kasih -->
-      <p class="text-lg font-light italic animate-fade-in-delay">
-        Dengan penuh rasa syukur, kami mengucapkan terima kasih.
-      </p>
-  
-      <!-- Footer Kecil -->
-      <div class="mt-12 text-sm text-white/60">
-        <p>© 2025 Undangan Rivan & Nuraenia</p>
-        <p class="mt-1">Dibuat dengan ❤️ menggunakan Vue & Tailwind CSS</p>
+    <footer id="closing" class="bg-black text-white text-center border-t border-white/10">
+      <div class="py-6 text-sm text-white/60">
+        <p>© 2025 Designed & Developed by <span><a href="https://rivannurdin.github.io" target="_blank">Rivan Nurdin</a></span> 😎</p>
       </div>
     </footer>
   </template>

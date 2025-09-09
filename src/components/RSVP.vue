@@ -20,7 +20,7 @@
         target="_blank"
         class="inline-block bg-white text-black font-semibold px-8 py-3 rounded-full shadow-lg hover:bg-gray-200 transition transform hover:scale-105 animate-fade-in-delay"
       >
-        Konfirmasi via WhatsApp
+      <i class="fa-brands fa-whatsapp mr-2"></i> Konfirmasi via WhatsApp
       </a>
     </section>
   </template>
