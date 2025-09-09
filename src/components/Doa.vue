@@ -10,7 +10,7 @@
       <!-- Form Ucapan -->
       <form
         @submit.prevent="addUcapan"
-        class="max-w-3xl mx-auto mb-12 animate-fade-in-delay"
+        class="max-w-3xl mx-auto mb-12 animate-fade-in-delay md:p-8 md:border md:border-white/10 md:rounded-2xl"
       >
         <div class="mb-4">
           <input

@@ -20,6 +20,8 @@ onMounted(() => {
     phone.value = "6289606936663";
   } else if (from === "Utay") {
     phone.value = "6289525261870";
+  } else {
+    phone.value = "6289525261870"
   }
 
   if (to) {
