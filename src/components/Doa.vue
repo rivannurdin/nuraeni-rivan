@@ -4,7 +4,7 @@
       class="py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
-        Doa & Ucapan
+        Ucapan & Doa
       </h2>
   
       <!-- Form Ucapan -->
@@ -16,7 +16,7 @@
           <input
             v-model="nama"
             type="text"
-            placeholder="Nama Anda"
+            placeholder="Nama"
             required
             class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
           />
@@ -24,7 +24,7 @@
         <div class="mb-4">
           <textarea
             v-model="pesan"
-            placeholder="Tuliskan doa atau ucapan Anda..."
+            placeholder="Ucapan dan doa untuk kedua mempelai..."
             required
             rows="4"
             class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
@@ -32,7 +32,7 @@
         </div>
         <button
           type="submit"
-          class="bg-stone-600 text-white font-semibold px-6 py-3 rounded-full hover:bg-stone-800 transition"
+          class="bg-stone-600 text-white md:text-base text-sm font-semibold px-4 py-2 md:px-8 rounded-full hover:bg-stone-800 transition"
         >
           Kirim Ucapan
         </button>
@@ -43,10 +43,10 @@
         <div
           v-for="(u, index) in ucapanList"
           :key="index"
-          class="bg-stone-600/5 rounded-xl p-5 shadow-md text-left animate-fade-in"
+          class="bg-stone-600/5 rounded-xl hadow-md text-left animate-fade-in"
         >
-          <p class="font-semibold text-lg mb-2">{{ u.nama }}</p>
-          <p class="text-white/80 leading-relaxed">"{{ u.pesan }}"</p>
+          <p class="font-semibold md:text-lg mb-2">{{ u.nama }}</p>
+          <p class="text-white/80 text-sm md:text-base leading-relaxed">"{{ u.pesan }}"</p>
         </div>
       </div>
     </section>
