@@ -26,27 +26,20 @@
   </template>
   
   <script setup>
-  import { ref, onMounted, computed } from "vue";
-  
-  // Nomor WhatsApp tujuan
-  const phone = "6281234567890"; // ganti dengan nomor kamu
-  const guestName = ref("");
-  
-  // Ambil nama tamu dari URL
-  onMounted(() => {
-    const path = decodeURIComponent(window.location.pathname.replace("/", ""));
-    if (path) {
-      guestName.value = path.replace(/\+/g, " ");
-    }
-  });
-  
-  // Link WhatsApp dengan pesan otomatis
+  import { computed } from "vue";
+
+  const props = defineProps({
+    guest: String,
+    phone: String,
+  })
+
   const waLink = computed(() => {
-    const message = guestName.value
-      ? `Halo, saya ${guestName.value} ingin konfirmasi kehadiran.`
+    const message = props.guest
+      ? `Halo, saya ${props.guest} ingin konfirmasi kehadiran.`
       : "Halo, saya ingin konfirmasi kehadiran.";
-    return `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/${props.phone}?text=${encodeURIComponent(message)}`;
   });
+
   </script>
   
   <style scoped>
