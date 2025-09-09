@@ -59,18 +59,3 @@ defineProps({
 })
 
 </script>
-
-<style scoped>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.animate-fade-in { animation: fadeIn 1s ease-out forwards; }
-.animate-fade-in-delay { animation: fadeIn 1.5s ease-out forwards; }
-
-@keyframes bounceSlow {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-}
-.animate-bounce-slow { animation: bounceSlow 3s infinite; }
-</style>
