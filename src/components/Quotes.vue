@@ -1,7 +1,7 @@
 <template>
   <section
     id="quotes"
-    class="py-16 px-6 bg-gradient-to-b from-black to-stone-950 text-white">
+    class="py-16 px-6 bg-gradient-to-b from-black to-stone-900 text-white">
     <div class="grid grid-cols-1 md:grid-cols-1 gap-10 max-w-5xl mx-auto">
       <div class="p-6 text-center animate-fade-in">
         <p class="text-xl md:text-2xl leading-relaxed pb-6">

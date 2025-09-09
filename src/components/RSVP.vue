@@ -1,7 +1,7 @@
 <template>
   <section
     id="rsvp"
-    class="py-16 px-6 text-center bg-gradient-to-b from-stone-950 to-black text-white"
+    class="py-16 px-6 text-center bg-gradient-to-b from-stone-900 to-black text-white"
   >
     <!-- Judul -->
     <h2 class="text-2xl md:text-4xl font-bold mb-6 animate-fade-in">

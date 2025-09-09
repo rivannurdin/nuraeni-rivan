@@ -1,5 +1,5 @@
 <template>
-    <section id="event" class="relative -mt-16 md:mt-16 py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-950 text-white text-center">
+    <section id="event" class="relative -mt-16 md:mt-16 py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
       <div class="w-full max-w-2xl mx-auto">
         <p class="text-md md:text-xl mb-5 text-stone-300 animate-fade-in-delay">وَمِنْ اٰيٰتِهٖٓ اَنْ خَلَقَ لَكُمْ مِّنْ اَنْفُسِكُمْ اَزْوَاجًا لِّتَسْكُنُوْٓا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَّوَدَّةً وَّرَحْمَةًۗ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ</p>
         <p class="text-md md:text-lg italic text-stone-300 font-lightobject-right animate-fade-in-delay">"Di antara tanda-tanda (kebesaran)-Nya ialah bahwa Dia menciptakan pasangan-pasangan untukmu dari (jenis) dirimu sendiri agar kamu merasa tenteram kepadanya. Dia menjadikan di antaramu rasa cinta dan kasih sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."</p>

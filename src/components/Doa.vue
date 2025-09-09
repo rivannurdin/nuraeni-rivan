@@ -1,7 +1,7 @@
 <template>
     <section
       id="doa"
-      class="py-16 px-6 bg-gradient-to-b from-stone-950 to-black text-white"
+      class="py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
         Doa & Ucapan
