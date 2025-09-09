@@ -1,23 +1,23 @@
 <template>
   <section
     id="rsvp"
-    class="py-16 px-6 text-center bg-gradient-to-b from-gray-900 to-black text-white border-t border-white/10"
+    class="py-16 px-6 text-center bg-gradient-to-b from-stone-950 to-black text-white"
   >
     <!-- Judul -->
-    <h2 class="text-3xl md:text-4xl font-bold mb-6 animate-fade-in">
+    <h2 class="text-2xl md:text-4xl font-bold mb-6 animate-fade-in">
       Konfirmasi Kehadiran
     </h2>
 
     <!-- Deskripsi -->
-    <p class="max-w-xl mx-auto text-lg font-light mb-8 animate-fade-in-delay">
-      Kami sangat berbahagia apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu pada hari bahagia kami.
+    <p class="max-w-xl md:max-w-3xl mx-auto text-lg font-light mb-8 animate-fade-in-delay">
+      Merupakan kebahagiaan mendalam bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir, serta berkenan mendoakan dan merestui langkah kami pada hari yang penuh makna ini.
     </p>
 
     <!-- Tombol WhatsApp -->
     <a
       :href="waLink"
       target="_blank"
-      class="inline-block bg-white text-black font-semibold px-8 py-3 rounded-full shadow-lg hover:bg-gray-200 transition transform hover:scale-105 animate-fade-in-delay"
+      class="inline-block bg-white text-black text-sm font-semibold px-4 py-2 md:px-8 md:py-3 rounded-full shadow-lg hover:bg-stone-200 transition transform hover:scale-105 animate-fade-in-delay"
     >
     <i class="fa-brands fa-whatsapp mr-2"></i> Konfirmasi via WhatsApp
     </a>

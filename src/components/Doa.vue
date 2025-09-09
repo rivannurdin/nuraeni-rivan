@@ -1,7 +1,7 @@
 <template>
     <section
       id="doa"
-      class="md:py-16 py-8 px-6 bg-gradient-to-b from-gray-900 to-black text-white"
+      class="py-16 px-6 bg-gradient-to-b from-stone-950 to-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
         Doa & Ucapan
@@ -32,7 +32,7 @@
         </div>
         <button
           type="submit"
-          class="bg-white text-black font-semibold px-6 py-3 rounded-full hover:bg-gray-200 transition"
+          class="bg-white text-black font-semibold px-6 py-3 rounded-full hover:bg-stone-200 transition"
         >
           Kirim Ucapan
         </button>
