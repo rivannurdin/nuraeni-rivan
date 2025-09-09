@@ -8,7 +8,7 @@
     </h2>
 
     <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay">
-      Doa restu merupakan hadiah terindah bagi kami. Jika berkenan memberi tanda kasih, dapat disampaikan melalui rekening atau alamat berikut:
+      Doa restu Anda adalah anugerah terindah bagi kami. Namun bila tanda kasih ingin Anda titipkan, dengan penuh syukur dapat disampaikan melalui:
     </p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto animate-fade-in-delay">

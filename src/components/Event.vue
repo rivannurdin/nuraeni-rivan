@@ -23,7 +23,7 @@
           </a>
 
           <div class="mt-12 md:mt-16">
-            <hr class="border-white/10 md:border-transparent pb-4 md:pb-0">
+            <hr class="border-white/10 md:border-transparent pb-6 md:pb-0">
             <div class="flex justify-center md:gap-4 text-center">
               <div class="px-4 py-3">
                 <p class="text-3xl md:text-5xl font-bold">{{ days }}</p>
