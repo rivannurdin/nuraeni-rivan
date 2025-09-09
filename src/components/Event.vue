@@ -22,25 +22,25 @@
           </a>
 
           <div class="mt-12">
-          <div class="flex justify-center gap-4 text-center">
-            <div class="px-4 py-3 rounded-lg">
-              <p class="text-3xl font-bold">{{ days }}</p>
-              <span class="text-sm">Hari</span>
-            </div>
-            <div class="px-4 py-3 rounded-lg">
-              <p class="text-3xl font-bold">{{ hours }}</p>
-              <span class="text-sm">Jam</span>
-            </div>
-            <div class="px-4 py-3 rounded-lg">
-              <p class="text-3xl font-bold">{{ minutes }}</p>
-              <span class="text-sm">Menit</span>
-            </div>
-            <div class="px-4 py-3 rounded-lg">
-              <p class="text-3xl font-bold">{{ seconds }}</p>
-              <span class="text-sm">Detik</span>
+            <div class="flex justify-center md:gap-4 text-center">
+              <div class="px-4 py-3 rounded-lg">
+                <p class="text-3xl md:text-5xl font-bold">{{ days }}</p>
+                <span class="text-sm">Hari</span>
+              </div>
+              <div class="px-4 py-3 rounded-lg">
+                <p class="text-3xl md:text-5xl font-bold">{{ hours }}</p>
+                <span class="text-sm">Jam</span>
+              </div>
+              <div class="px-4 py-3 rounded-lg">
+                <p class="text-3xl md:text-5xl font-bold">{{ minutes }}</p>
+                <span class="text-sm">Menit</span>
+              </div>
+              <div class="px-4 py-3 rounded-lg">
+                <p class="text-3xl md:text-5xl font-bold">{{ seconds }}</p>
+                <span class="text-sm">Detik</span>
+              </div>
             </div>
           </div>
-        </div>
         </div>
 
         <!-- <div class="bg-gray-900 rounded-xl p-6 shadow-lg bg-opacity-90">

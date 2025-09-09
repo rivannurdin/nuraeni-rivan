@@ -1,7 +1,7 @@
 <template>
     <section
       id="doa"
-      class="py-16 px-6 bg-gradient-to-b from-gray-900 to-black text-white"
+      class="md:py-16 py-8 px-6 bg-gradient-to-b from-gray-900 to-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
         Doa & Ucapan
@@ -53,27 +53,39 @@
   </template>
   
   <script setup>
-  import { ref } from "vue";
-  
-  const nama = ref("");
-  const pesan = ref("");
-  const ucapanList = ref([
-    { nama: "Tamu A", pesan: "Selamat menempuh hidup baru 🎉" },
-    { nama: "Tamu B", pesan: "Semoga menjadi keluarga sakinah mawaddah warahmah 💕" },
-  ]);
-  
-  function addUcapan() {
-    if (nama.value && pesan.value) {
-      ucapanList.value.unshift({
-        nama: nama.value,
-        pesan: pesan.value,
-      });
-      // reset form
-      nama.value = "";
-      pesan.value = "";
-    }
+import { ref, onMounted } from "vue";
+
+const nama = ref("");
+const pesan = ref("");
+const ucapanList = ref([]);
+
+// localStorage.removeItem("ucapanList");
+
+// Load ucapan dari localStorage saat mounted
+onMounted(() => {
+  const stored = localStorage.getItem("ucapanList");
+  if (stored) {
+    ucapanList.value = JSON.parse(stored);
   }
-  </script>
+});
+
+// Tambah ucapan baru
+function addUcapan() {
+  if (nama.value.trim() && pesan.value.trim()) {
+    ucapanList.value.unshift({
+      nama: nama.value.trim(),
+      pesan: pesan.value.trim(),
+    });
+
+    // Simpan ke localStorage
+    localStorage.setItem("ucapanList", JSON.stringify(ucapanList.value));
+
+    // Reset form
+    nama.value = "";
+    pesan.value = "";
+  }
+}
+</script>
   
   <style scoped>
   @keyframes fadeIn {

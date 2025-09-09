@@ -29,9 +29,9 @@
         {{ coupleNames }}
       </h1>
 
-      <!-- <p class="text-md md:text-3xl font-light mb-4 md:mb-24 text-gray-300 animate-fade-in-delay">
+      <p class="text-md md:text-3xl font-light mb-4 md:mb-24 text-gray-300 animate-fade-in-delay">
         Minggu, 12 Oktober 2025
-      </p> -->
+      </p>
 
       <p class="text-md md:text-lg font-light mb-2 md:mt-14 object-right text-gray-300 animate-fade-in-delay hidden md:block">
         Mengundang dengan penuh rasa bahagia

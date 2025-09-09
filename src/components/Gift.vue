@@ -1,7 +1,7 @@
 <template>
     <section
       id="gift"
-      class="py-16 px-6 text-center bg-black text-white"
+      class="md:py-16 py:8 px-6 text-center bg-black text-white"
     >
       <h2 class="text-3xl md:text-4xl font-bold mb-6 animate-fade-in">
         Kirim Hadiah/Gift

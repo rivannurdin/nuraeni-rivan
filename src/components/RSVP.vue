@@ -10,8 +10,7 @@
   
       <!-- Deskripsi -->
       <p class="max-w-xl mx-auto text-lg font-light mb-8 animate-fade-in-delay">
-        Kami sangat berbahagia apabila Bapak/Ibu/Saudara/i berkenan hadir dan
-        memberikan doa restu pada hari bahagia kami.
+        Kami sangat berbahagia apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu pada hari bahagia kami.
       </p>
   
       <!-- Tombol WhatsApp -->
