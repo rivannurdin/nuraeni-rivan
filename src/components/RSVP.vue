@@ -9,7 +9,7 @@
     </h2>
 
     <!-- Deskripsi -->
-    <p class="max-w-xl md:max-w-3xl mx-auto text-lg font-light mb-8 animate-fade-in-delay">
+    <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-8 animate-fade-in-delay">
       Merupakan kebahagiaan mendalam bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir, serta berkenan mendoakan dan merestui langkah kami pada hari yang penuh makna ini.
     </p>
 
