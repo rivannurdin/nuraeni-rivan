@@ -1,16 +1,14 @@
 <template>
     <section id="event" class="relative -mt-16 md:mt-16 py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
       <div class="w-full max-w-2xl mx-auto">
-        <p class="text-md md:text-xl mb-5 text-stone-300 animate-fade-in-delay">وَمِنْ اٰيٰتِهٖٓ اَنْ خَلَقَ لَكُمْ مِّنْ اَنْفُسِكُمْ اَزْوَاجًا لِّتَسْكُنُوْٓا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَّوَدَّةً وَّرَحْمَةًۗ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ</p>
-        <p class="text-md md:text-lg italic text-stone-300 font-lightobject-right animate-fade-in-delay">"Di antara tanda-tanda (kebesaran)-Nya ialah bahwa Dia menciptakan pasangan-pasangan untukmu dari (jenis) dirimu sendiri agar kamu merasa tenteram kepadanya. Dia menjadikan di antaramu rasa cinta dan kasih sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."</p>
-        <p class="text-md md:text-lg mb-10 italic text-stone-300 font-lightobject-right animate-fade-in-delay">
-          (Q.S. Ar Rum Ayat 21)
-        </p>
+        <p class="text-sm md:text-xl mb-5 text-stone-300 animate-fade-in-delay">وَمِنْ اٰيٰتِهٖٓ اَنْ خَلَقَ لَكُمْ مِّنْ اَنْفُسِكُمْ اَزْوَاجًا لِّتَسْكُنُوْٓا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَّوَدَّةً وَّرَحْمَةًۗ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ</p>
+        <p class="text-xs md:text-lg italic text-stone-300 animate-fade-in-delay">"Di antara tanda-tanda (kebesaran)-Nya ialah bahwa Dia menciptakan pasangan-pasangan untukmu dari (jenis) dirimu sendiri agar kamu merasa tenteram kepadanya. Dia menjadikan di antaramu rasa cinta dan kasih sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."</p>
+        <p class="text-xs md:text-lg mb-10 italic text-stone-300 animate-fade-in-delay">(Q.S. Ar Rum Ayat 21)</p>
       </div>
   
       <div class="grid grid-cols-1 max-w-3xl mx-auto animate-fade-in-delay">
         <div class="border border-white/10 rounded-2xl p-10 shadow-lg hover:shadow-xl">
-          <h3 class="text-xl font-semibold mb-3">Akad & Resepsi</h3>
+          <h3 class="text-xl md:text-3xl font-semibold mb-3">Akad & Resepsi</h3>
           <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
           <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB - Selesai</p>
           <p class="mb-6"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
