@@ -25,7 +25,7 @@
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
-      <h1 class="text-4xl md:text-8xl font-extrabold tracking-wide mb-2 animate-fade-in">
+      <h1 class="text-4xl md:text-8xl font-semibold tracking-wide mb-2 animate-fade-in">
         {{ coupleNames }}
       </h1>
 
