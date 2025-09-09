@@ -12,7 +12,7 @@
         <div class="border border-white/10 rounded-2xl p-10 shadow-lg">
           <h3 class="text-xl font-semibold mb-3">Akad & Resepsi</h3>
           <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
-          <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB</p>
+          <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB - Selesai</p>
           <p class="mb-4"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
           <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
             target="_blank"

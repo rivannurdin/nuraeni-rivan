@@ -4,7 +4,7 @@
     class="md:py-16 py:8 px-6 text-center bg-black text-white"
   >
     <h2 class="text-3xl md:text-4xl font-bold mb-6 animate-fade-in">
-      Kirim Hadiah/Gift
+      Kirim Hadiah (Wedding Gift)
     </h2>
 
     <p class="max-w-xl mx-auto text-lg font-light mb-10 animate-fade-in-delay">
