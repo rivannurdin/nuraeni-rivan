@@ -10,7 +10,7 @@
       <!-- Form Ucapan -->
       <form
         @submit.prevent="addUcapan"
-        class="max-w-3xl mx-auto mb-12 animate-fade-in-delay md:p-8 md:border md:border-white/10 md:rounded-2xl"
+        class="max-w-3xl mx-auto mb-12 animate-fade-in-delay md:p-8 md:border md:border-white/10 md:rounded-2xl shadow-lg hover:shadow-xl"
       >
         <div class="mb-4">
           <input
@@ -32,7 +32,7 @@
         </div>
         <button
           type="submit"
-          class="bg-white text-black font-semibold px-6 py-3 rounded-full hover:bg-stone-200 transition"
+          class="bg-stone-600 text-white font-semibold px-6 py-3 rounded-full hover:bg-stone-800 transition"
         >
           Kirim Ucapan
         </button>
@@ -43,7 +43,7 @@
         <div
           v-for="(u, index) in ucapanList"
           :key="index"
-          class="bg-white/5 rounded-xl p-5 shadow-md text-left animate-fade-in"
+          class="bg-stone-600/5 rounded-xl p-5 shadow-md text-left animate-fade-in"
         >
           <p class="font-semibold text-lg mb-2">{{ u.nama }}</p>
           <p class="text-white/80 leading-relaxed">"{{ u.pesan }}"</p>

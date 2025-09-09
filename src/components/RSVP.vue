@@ -17,7 +17,7 @@
     <a
       :href="waLink"
       target="_blank"
-      class="inline-block bg-white text-black text-sm font-semibold px-4 py-2 md:px-8 md:py-3 rounded-full shadow-lg hover:bg-stone-200 transition transform hover:scale-105 animate-fade-in-delay"
+      class="inline-block bg-stone-600 text-white text-sm font-semibold px-4 py-2 md:px-8 md:py-3 rounded-full shadow-lg hover:bg-stone-800 transition transform hover:scale-105 animate-fade-in-delay"
     >
     <i class="fa-brands fa-whatsapp mr-2"></i> Konfirmasi via WhatsApp
     </a>

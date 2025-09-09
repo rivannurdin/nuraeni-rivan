@@ -9,7 +9,7 @@
       </div>
   
       <div class="grid grid-cols-1 max-w-3xl mx-auto animate-fade-in-delay">
-        <div class="border border-white/10 rounded-2xl p-10 shadow-lg">
+        <div class="border border-white/10 rounded-2xl p-10 shadow-lg hover:shadow-xl">
           <h3 class="text-xl font-semibold mb-3">Akad & Resepsi</h3>
           <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
           <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB - Selesai</p>
@@ -17,7 +17,7 @@
           <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
             target="_blank"
             rel="noopener noreferrer"
-            class="px-4 py-2 bg-white text-black rounded-full text-sm font-semibold hover:bg-stone-200 transition">
+            class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold hover:bg-stone-800 transition">
             <!-- <i class="fa-solid fa-location-dot mr-2"></i> -->
             Google Maps
           </a>
