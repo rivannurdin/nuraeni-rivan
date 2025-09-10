@@ -34,11 +34,11 @@
     </form>
 
     <!-- List Ucapan -->
-    <div class="max-w-3xl mx-auto space-y-6">
+    <div class="max-w-3xl mx-auto space-y-2">
       <div
         v-for="(u, index) in ucapanList"
         :key="index"
-        class="bg-stone-600/5 rounded-xl hadow-md text-left animate-fade-in"
+        class="bg-stone-900/60 rounded-xl hadow-md text-left animate-fade-in p-4"
       >
         <p class="font-semibold md:text-lg mb-2">{{ u.nama }}</p>
         <p class="text-white/80 text-sm md:text-base leading-relaxed">"{{ u.pesan }}"</p>

@@ -7,7 +7,7 @@
       <img
       :src="Ipunk"
       alt="Ipunk"
-      class="w-full h-full object-cover object-left opacity-50 -translate-x-1/2 img-fade"
+      class="w-full h-full object-cover object-left opacity-40 -translate-x-1/2 img-fade"
       />
     </div>
     
@@ -15,7 +15,7 @@
       <img
       :src="Utay"
       alt="Utay"
-      class="w-full h-full object-cover object-right opacity-50 translate-x-1/2 img-fade"
+      class="w-full h-full object-cover object-right opacity-40 translate-x-1/2 img-fade"
       />
     </div>
     

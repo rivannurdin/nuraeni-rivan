@@ -12,7 +12,7 @@
           Nuraeni & Rivan
         </h2>
     
-        <p class="font-light italic animate-fade-in-delay">
+        <p class="font-light md:text-lg italic animate-fade-in-delay">
           Dengan penuh rasa syukur, kami mengucapkan terima kasih.
         </p>
       </div>

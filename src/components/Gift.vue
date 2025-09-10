@@ -71,9 +71,9 @@
         class="px-6 pb-6 transition-all duration-500 text-left"
         :class="isAlamatOpen ? 'block' : 'hidden md:block'"
       >
-        <p class="mb-4">KP. Ciwidara RT 05 RW 14, Desa/Kecamatan Pangalengan, Kabupaten Bandung</p>
+        <p class="mb-4"><a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw">KP. Ciwidara RT 05 RW 14, Desa/Kecamatan Pangalengan, Kabupaten Bandung </a><span class="text-stone-400">↗</span></p>
         <hr class="p-1 border-white/10">
-        <p class="mb-4">Sekemerak No.131 RT 04 RW18, Cibeunying, Cimenyan, Kabupaten Bandung</p>
+        <p class="mb-4"><a href="https://maps.app.goo.gl/KjZeLsMmi2HFKGtXA">Sekemerak No.131 RT 04 RW18, Cibeunying, Cimenyan, Kabupaten Bandung </a><span class="text-stone-400">↗</span></p>
       </div>
     </div>
 
