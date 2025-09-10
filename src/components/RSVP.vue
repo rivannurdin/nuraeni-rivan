@@ -1,11 +1,9 @@
 <template>
-  <section
-    id="rsvp"
-    class="py-16 px-6 text-center bg-gradient-to-b from-stone-900 to-black text-white"
+  <section id="rsvp" class="py-16 px-6 text-center bg-gradient-to-b from-stone-900 to-black text-white"
   >
     <!-- Judul -->
-    <h2 class="text-2xl md:text-4xl font-bold mb-6 animate-fade-in">
-      Konfirmasi Kehadiran
+    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300" style="font-family: 'Allura', cursive;">
+      Reservasi
     </h2>
 
     <!-- Deskripsi -->

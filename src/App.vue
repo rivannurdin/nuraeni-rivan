@@ -2,11 +2,13 @@
 import Event from './components/Event.vue';
 import Gift from './components/Gift.vue';
 import Hero from './components/Hero.vue';
-import Quotes from './components/Quotes.vue';
 import RSVP from './components/RSVP.vue';
 import Footer from './components/Footer.vue';
-import Doa from './components/Doa.vue';
 import { onMounted, ref } from 'vue';
+import Ayat from './components/Ayat.vue';
+import BrideGroom from './components/BrideGroom.vue';
+import Thanks from './components/Thanks.vue';
+import Wish from './components/Wish.vue';
 
 const guestName = ref("");
 const phone = ref("");
@@ -37,11 +39,13 @@ onMounted(() => {
 
   <div class="bg-black text-white font-sans">
     <Hero :guest="guestName"/>
+    <Ayat />
+    <BrideGroom />
     <Event />
     <RSVP :guest="guestName" :phone="phone" />
     <Gift />
-    <Quotes />
-    <Doa />
+    <Wish />
+    <Thanks />
     <Footer />
   </div>
   

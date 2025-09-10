@@ -1,15 +1,15 @@
 <template>
   <section
-    id="quotes"
-    class="py-16 px-6 bg-gradient-to-b from-black to-stone-900 text-white">
+    id="thanks"
+    class="py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white">
     <div class="grid grid-cols-1 md:grid-cols-1 gap-10 max-w-5xl mx-auto">
       <div class="p-6 text-center animate-fade-in">
         <p class="text-xl md:text-2xl leading-relaxed pb-6">
           Hadirnya Bapak/Ibu/Saudara/i akan menjadi kebahagiaan dan kehormatan bagi kami, sebagaimana doa restu yang terucap menjadi cahaya bagi langkah kami.
         </p>
 
-        <h2 class="text-3xl md:text-4xl font-bold mb-4 animate-fade-in-delay">
-          Nuraeni Astuti & Rivan Nurdin
+        <h2 class="text-3xl md:text-4xl mb-8 text-center animate-fade-in font-serif text-stone-300">
+          Nuraeni & Rivan
         </h2>
     
         <p class="font-light italic animate-fade-in-delay">

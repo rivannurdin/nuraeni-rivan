@@ -1,9 +1,9 @@
 <template>
-  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black text-white overflow-hidden">
+  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black text-white overflow-hidden md:-mb-0 -mb-16">
     <div class="absolute inset-0 flex justify-center items-center -z-20 opacity-10">
       <div class="w-[600px] h-[600px] rounded-full bg-stone-600 blur-3xl"></div>
     </div>
-
+    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
     <div class="absolute md:left-0 md:top-0 md:w-1/2 md:h-full overflow-hidden">
       <img
         :src="Ipunk"
@@ -20,8 +20,6 @@
       />
     </div>
 
-    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
-
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
@@ -29,11 +27,11 @@
         {{ coupleNames }}
       </h1>
 
-      <p class="text-md md:text-3xl font-light mb-4 md:mb-24 text-stone-300 animate-fade-in-delay">
+      <p class="text-base md:text-3xl font-light mb-4 md:mb-24 animate-fade-in-delay">
         Minggu, 12 Oktober 2025
       </p>
 
-      <p class="text-md md:text-lg font-light mb-2 md:mt-14 object-right text-stone-300 animate-fade-in-delay hidden md:block">
+      <p class="text-lg md:text-xl font-light mb-2 md:mt-14 object-right text-stone-300 animate-fade-in-delay hidden md:block">
         Mengundang dengan penuh rasa bahagia
       </p>
 

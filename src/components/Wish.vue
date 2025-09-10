@@ -1,10 +1,8 @@
 <template>
-    <section
-      id="doa"
-      class="py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white"
-    >
-      <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center animate-fade-in">
-        Ucapan & Doa
+    <section id="wish" class="py-16 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
+
+      <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300" style="font-family: 'Allura', cursive;">
+        Wedding Wish
       </h2>
   
       <!-- Form Ucapan -->
@@ -24,16 +22,13 @@
         <div class="mb-4">
           <textarea
             v-model="pesan"
-            placeholder="Ucapan dan doa untuk kedua mempelai..."
+            placeholder="Ucapan untuk kedua mempelai..."
             required
             rows="4"
             class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
           ></textarea>
         </div>
-        <button
-          type="submit"
-          class="bg-stone-600 text-white md:text-base text-sm font-semibold px-4 py-2 md:px-8 rounded-full hover:bg-stone-800 transition"
-        >
+        <button type="submit" class="bg-stone-600 text-white md:text-base text-sm font-semibold px-4 py-2 md:px-8 rounded-full hover:bg-stone-800 transition">
           Kirim Ucapan
         </button>
       </form>
@@ -86,13 +81,4 @@ function addUcapan() {
   }
 }
 </script>
-  
-  <style scoped>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .animate-fade-in { animation: fadeIn 1s ease-out forwards; }
-  .animate-fade-in-delay { animation: fadeIn 1.5s ease-out forwards; }
-  </style>
   

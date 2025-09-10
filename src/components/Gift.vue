@@ -1,10 +1,8 @@
 <template>
-  <section
-    id="gift"
-    class="py-16 py:8 px-6 text-center bg-black text-white"
-  >
-    <h2 class="text-2xl md:text-4xl font-bold mb-6 animate-fade-in">
-      Kirim Hadiah (Wedding Gift)
+  <section id="gift" class="py-16 px-6 text-center bg-black text-white">
+
+    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300" style="font-family: 'Allura', cursive;">
+      Wedding Gift
     </h2>
 
     <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay">
