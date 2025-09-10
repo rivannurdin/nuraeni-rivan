@@ -6,7 +6,7 @@
       </h2>
 
       <div class="grid grid-cols-1 text-left">
-        <h2 class="text-3xl md:text-4xl mb-2 animate-fade-in-delay font-serif">
+        <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">
           Nuraeni Astuti
         </h2>
         <p class="mb-1 text-sm md:text-base text-stone-300">Putri ketiga dari<br>Bapak H Undang Daman (Alm) & <br>Ibu Ai Komala</p>
@@ -15,7 +15,7 @@
       <p class="py-16 text-2xl md:text-4xl text-stone-300" style="font-family: 'Allura', cursive;">dengan</p>
 
       <div class="grid text-right">
-        <h2 class="text-3xl md:text-4xl mb-2 animate-fade-in-delay font-serif">
+        <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">
           Rivan Nurdin S.Kom
         </h2>
         <p class="mb-1 text-sm md:text-base text-stone-300">Putra ketiga dari<br>Bapak Ade Saefudin (Alm) &<br>Ibu Sri Rochayani</p>

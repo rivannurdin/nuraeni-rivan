@@ -8,7 +8,7 @@
           Hadirnya Bapak/Ibu/Saudara/i akan menjadi kebahagiaan dan kehormatan bagi kami, sebagaimana doa restu yang terucap menjadi cahaya bagi langkah kami.
         </p>
 
-        <h2 class="text-3xl md:text-4xl mb-8 text-center animate-fade-in font-serif text-stone-300">
+        <h2 class="text-3xl md:text-4xl mb-8 text-center animate-fade-in font-serif">
           Nuraeni & Rivan
         </h2>
     

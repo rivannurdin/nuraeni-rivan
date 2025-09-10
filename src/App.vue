@@ -37,7 +37,7 @@ onMounted(() => {
 
 <template>
 
-  <div class="bg-black text-white font-sans">
+  <div class="bg-black text-white">
     <Hero :guest="guestName"/>
     <Ayat />
     <BrideGroom />

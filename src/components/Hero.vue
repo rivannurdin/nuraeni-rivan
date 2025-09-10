@@ -3,23 +3,23 @@
     <div class="absolute inset-0 flex justify-center items-center -z-20 opacity-10">
       <div class="w-[600px] h-[600px] rounded-full bg-stone-600 blur-3xl"></div>
     </div>
-    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
     <div class="absolute md:left-0 md:top-0 md:w-1/2 md:h-full overflow-hidden">
       <img
-        :src="Ipunk"
-        alt="Ipunk"
-        class="w-full h-full object-cover object-left opacity-50 -translate-x-1/2 img-fade"
+      :src="Ipunk"
+      alt="Ipunk"
+      class="w-full h-full object-cover object-left opacity-50 -translate-x-1/2 img-fade"
       />
     </div>
-
+    
     <div class="absolute md:right-0 md:top-0 md:w-1/2 md:h-full overflow-hidden">
       <img
-        :src="Utay"
-        alt="Utay"
-        class="w-full h-full object-cover object-right opacity-50 translate-x-1/2 img-fade"
+      :src="Utay"
+      alt="Utay"
+      class="w-full h-full object-cover object-right opacity-50 translate-x-1/2 img-fade"
       />
     </div>
-
+    
+    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
