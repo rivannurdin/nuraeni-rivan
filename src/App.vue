@@ -44,8 +44,8 @@ onMounted(() => {
     <Event />
     <RSVP :guest="guestName" :phone="phone" />
     <Gift />
-    <Wish />
     <Thanks />
+    <Wish />
     <Footer />
   </div>
   

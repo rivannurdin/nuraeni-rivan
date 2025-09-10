@@ -18,7 +18,7 @@
         <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">
           Rivan Nurdin S.Kom
         </h2>
-        <p class="mb-1 text-sm md:text-base text-stone-300">Putra ketiga dari<br>Bapak Ade Saefudin (Alm) &<br>Ibu Sri Rochayani</p>
+        <p class="mb-1 text-sm md:text-base text-stone-300">Putra kedua dari<br>Bapak Ade Saefudin (Alm) &<br>Ibu Sri Rochayani</p>
       </div>
     </div>
   </section>
