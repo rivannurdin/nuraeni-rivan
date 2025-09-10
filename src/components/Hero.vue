@@ -19,7 +19,7 @@
       />
     </div>
     
-    <img :src="NR" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
+    <img :src="Logo" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
@@ -37,7 +37,7 @@
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
-      <a href="#event" class="px-6 py-3 rounded-full bg-stone-600 text-white font-semibold shadow-lg hover:bg-stone-800 transition transform hover:scale-105">
+      <a href="#ayat" class="px-6 py-3 rounded-full bg-stone-600 text-white font-semibold shadow-lg hover:bg-stone-800 transition transform hover:scale-105">
         <i class="fa-solid fa-envelope-open mr-2"></i>Lihat
       </a>
     </div>
@@ -46,7 +46,7 @@
 
 <script setup>
 // Import gambar
-import NR from "/Logo.png";
+import Logo from "/Logo.png";
 import Ipunk from "/Ipang.png";
 import Utay from "/Utay.png";
 
