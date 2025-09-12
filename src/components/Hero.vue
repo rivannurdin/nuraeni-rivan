@@ -31,13 +31,13 @@
         Ahad, 12 Oktober 2025
       </p>
 
-      <p class="text-sm md:text-xl font-light mb-2 mt-14 object-right text-stone-300 animate-fade-in-delay">
+      <p class="text-lg md:text-xl font-light mb-2 md:mt-14 object-right text-stone-300 animate-fade-in-delay hidden md:block">
         Mengundang dengan penuh rasa bahagia
       </p>
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
-      <a href="#ayat" class="px-6 py-3 rounded-full bg-stone-600 text-white font-semibold shadow-lg hover:bg-stone-800 transition transform hover:scale-105">
+      <a href="#ayat" class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
         <i class="fa-solid fa-envelope-open mr-2"></i>Lihat
       </a>
     </div>

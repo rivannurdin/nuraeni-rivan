@@ -34,7 +34,7 @@
               <p class="mb-4">a.n. Nuraeni Astuti</p>
               <button
                 @click="copyToClipboard('346901080776535')"
-                class="px-4 py-2 bg-stone-600 text-white mb-4 rounded-full text-xs font-semibold hover:bg-stone-800 transition"
+                class="px-4 py-2 bg-stone-600 text-white mb-4 rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
               >
                 Salin No. Rekening
               </button>
@@ -45,7 +45,7 @@
               <p class="mb-4">a.n. Rivan Nurdin</p>
               <button
                 @click="copyToClipboard('8320588520')"
-                class="px-4 py-2 bg-stone-600 text-white rounded-full text-xs font-semibold hover:bg-stone-800 transition"
+                class="px-4 py-2 bg-stone-600 text-white rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
               >
                 Salin No. Rekening
               </button>

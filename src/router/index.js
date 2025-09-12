@@ -1,9 +1,9 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../App.vue'
 import RsvpList from '../pages/RsvpList.vue'
 
 const router = createRouter({
-  history: createWebHashHistory('/nuraeni-rivan/'),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: '/', component: Home },
     { path: '/rsvp-list', component: RsvpList },

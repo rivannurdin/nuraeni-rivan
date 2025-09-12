@@ -23,7 +23,7 @@
     <!-- Form RSVP -->
     <form
       @submit.prevent="addRSVP"
-      class="max-w-2xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl shadow-lg"
+      class="max-w-xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-stone-900/10 backdrop-blur-sm border border-white/10 rounded-2xl shadow-lg"
     >
       <!-- Input Nama -->
       <div class="mb-6">
@@ -32,7 +32,7 @@
           type="text"
           placeholder="Nama"
           required
-          class="w-full px-3 py-2 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
+          class="w-full px-3 py-2 rounded-lg text-stone-700 focus:outline-none focus:ring-2 focus:ring-white"
         />
       </div>
 
@@ -42,7 +42,7 @@
         <select
           v-model="status"
           required
-          class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-stone-400"
+          class="w-full px-4 py-3 rounded-lg text-stone-700 focus:outline-none focus:ring-2 focus:ring-stone-400"
         >
           <option value="" disabled>Pilih salah satu</option>
           <option value="Bersedia Hadir">Bersedia Hadir</option>
@@ -55,7 +55,7 @@
         type="submit"
         class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
       >
-        Kirim
+      <i class="fa-solid fa-paper-plane mr-2"></i>Kirim Konfirmasi
       </button>
     </form>
   </section>

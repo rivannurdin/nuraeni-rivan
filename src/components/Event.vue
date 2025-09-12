@@ -12,7 +12,7 @@
         <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
           target="_blank"
           rel="noopener noreferrer"
-          class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold hover:bg-stone-800 transition">
+          class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
           Google Maps
         </a>
 

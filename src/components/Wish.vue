@@ -8,7 +8,7 @@
     <!-- Form Ucapan -->
     <form
       @submit.prevent="addUcapan"
-      class="max-w-3xl mx-auto mb-12 animate-fade-in-delay md:p-8 md:border md:border-white/10 md:rounded-2xl shadow-lg hover:shadow-xl"
+      class="max-w-2xl mx-auto mb-12 animate-fade-in-delay md:p-8 md:border md:border-white/10 md:rounded-2xl shadow-lg hover:shadow-xl"
     >
       <div class="mb-4">
         <input
@@ -32,7 +32,7 @@
         type="submit"
         class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
       >
-      Kirim Ucapan
+      <i class="fa-solid fa-paper-plane mr-2"></i>Kirim Ucapan
       </button>
     </form>
 
