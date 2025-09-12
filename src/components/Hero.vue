@@ -37,7 +37,7 @@
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
-      <a href="#ayat" class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
+      <a href="#ayat" class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-10 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
         <i class="fa-solid fa-envelope-open mr-2"></i>Lihat
       </a>
     </div>
