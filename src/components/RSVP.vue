@@ -55,7 +55,7 @@
         type="submit"
         class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-2 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
       >
-      <i class="fa-solid fa-paper-plane mr-2"></i>Kirim Konfirmasi
+      <i class="fa-solid fa-paper-plane mr-2"></i>Kirim
       </button>
     </form>
   </section>
