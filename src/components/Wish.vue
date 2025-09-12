@@ -16,7 +16,7 @@
           type="text"
           placeholder="Nama"
           required
-          class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
+          class="w-full px-3 py-2 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
         />
       </div>
       <div class="mb-4">
@@ -25,7 +25,7 @@
           placeholder="Ucapan untuk kedua mempelai..."
           required
           rows="4"
-          class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
+          class="w-full px-3 py-2 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
         ></textarea>
       </div>
       <button

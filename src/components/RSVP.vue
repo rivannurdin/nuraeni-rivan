@@ -32,7 +32,7 @@
           type="text"
           placeholder="Nama"
           required
-          class="w-full px-4 py-3 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
+          class="w-full px-3 py-2 rounded-lg text-black focus:outline-none focus:ring-2 focus:ring-white"
         />
       </div>
 

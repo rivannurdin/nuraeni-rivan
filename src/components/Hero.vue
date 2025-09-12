@@ -19,7 +19,7 @@
       />
     </div>
     
-    <img :src="Logo" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade">
+    <img :src="Logo" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade md:-mt-0 -mt-36">
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
