@@ -1,11 +1,11 @@
 <template>
   <section id="gift" class="py-16 px-6 text-center bg-black text-white">
 
-    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300" style="font-family: 'Allura', cursive;">
+    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4" style="font-family: 'Allura', cursive;">
       Wedding Gift
     </h2>
 
-    <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay">
+    <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay text-stone-300">
       Doa restu Anda adalah anugerah terindah bagi kami. Namun bila tanda kasih ingin Anda titipkan, dengan penuh syukur dapat disampaikan melalui:
     </p>
 

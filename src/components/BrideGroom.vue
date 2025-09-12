@@ -1,7 +1,7 @@
 <template>
   <section id="bride_groom" class="relative py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white text-center">
    <div class="w-full max-w-2xl mx-auto">
-      <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-16 text-stone-300" style="font-family: 'Allura', cursive;">
+      <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-16" style="font-family: 'Allura', cursive;">
         Bride &<br>Groom
       </h2>
 
@@ -12,7 +12,7 @@
         <p class="mb-1 text-sm md:text-base text-stone-300">Putri ketiga dari<br>Bapak H Undang Daman (Alm) & <br>Ibu Ai Komala</p>
       </div>
 
-      <p class="py-16 text-2xl md:text-4xl text-stone-300" style="font-family: 'Allura', cursive;">dengan</p>
+      <p class="py-16 text-2xl md:text-4xl" style="font-family: 'Allura', cursive;">dengan</p>
 
       <div class="grid text-right">
         <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">

@@ -5,7 +5,7 @@
   >
     <!-- Judul -->
     <h2
-      class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300"
+      class="text-4xl md:text-5xl animate-fade-in-delay mb-4"
       style="font-family: 'Allura', cursive;"
     >
       Reservation
@@ -13,17 +13,14 @@
 
     <!-- Deskripsi -->
     <p
-      class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-8 animate-fade-in-delay"
-    >
-      Merupakan kebahagiaan mendalam bagi kami apabila Bapak, Ibu dan Teman-teman
-      berkenan hadir, serta mendoakan dan merestui langkah kami pada hari
-      yang penuh makna ini.
+      class="max-w-xl md:max-w-2xl mx-auto md:text-lg font-light mb-8 animate-fade-in-delay text-stone-300"
+    >Merupakan kebahagiaan mendalam bagi kami apabila Bapak, Ibu, serta teman-teman berkenan hadir, mendoakan, dan merestui langkah kami di hari yang penuh makna ini.
     </p>
 
     <!-- Form RSVP -->
     <form
       @submit.prevent="addRSVP"
-      class="max-w-xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-stone-900/10 backdrop-blur-sm border border-white/10 rounded-2xl shadow-lg"
+      class="max-w-2xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-stone-900/10 backdrop-blur-sm border border-white/10 rounded-2xl shadow-lg"
     >
       <!-- Input Nama -->
       <div class="mb-6">

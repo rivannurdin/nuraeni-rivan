@@ -1,5 +1,5 @@
 <template>
-  <section id="ayat" class="relative py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
+  <section id="ayat" class="relative py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-stone-300 text-center">
     <div class="w-full max-w-2xl mx-auto mb-10">
       <p class="text-sm md:text-xl mb-5 animate-fade-in-delay">وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُوْنَ</p>
       <p class="text-xs md:text-lg italic animate-fade-in-delay">"Segala sesuatu Kami ciptakan berpasang-pasangan agar kamu mengingat (kebesaran Allah)."</p>

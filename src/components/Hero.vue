@@ -20,14 +20,14 @@
     </div>
     
     <img :src="Logo" alt="NR" class="w-40 md:w-64 mx-auto mb-32 md:mb-24 img-fade md:-mt-0 -mt-36">
-    <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
+    <p class="text-base md:text-3xl mb-4 text-stone-300 animate-fade-in-delay">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
-      <h1 class="text-4xl md:text-8xl font-semibold tracking-wide mb-2 animate-fade-in">
+      <h1 class="text-3xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
         {{ coupleNames }}
       </h1>
 
-      <p class="text-base md:text-3xl font-light mb-4 md:mb-24 animate-fade-in-delay">
+      <p class="text-base md:text-3xl font-light mb-4 md:mb-24 animate-fade-in-delay text-stone-300">
         Ahad, 12 Oktober 2025
       </p>
 
