@@ -1,8 +1,7 @@
 <template>
-  <section class="min-h-screen py-16 px-6 bg-gradient-to-b from-black to-stone-900 text-white">
+  <section class="min-h-screen bg-gradient-to-b text-white">
     <h2
-      class="text-4xl md:text-5xl mb-8 text-center text-stone-300"
-      style="font-family: 'Allura', cursive;"
+      class="text-2xl md:text-3xl mb-8 text-center text-stone-300"
     >
       Daftar Konfirmasi Kehadiran
     </h2>
@@ -13,7 +12,7 @@
           <tr>
             <th class="py-3 px-4">Nama</th>
             <th class="py-3 px-4">Status</th>
-            <th class="py-3 px-4">Waktu</th>
+            <th class="py-3 px-4">Waktu Konfirmasi</th>
           </tr>
         </thead>
         <tbody>
