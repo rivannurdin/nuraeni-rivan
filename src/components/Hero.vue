@@ -19,7 +19,7 @@
       />
     </div>
     
-    <img :src="Logo" alt="NR" class="w-36 md:w-56 mx-auto mb-24 img-fade md:-mt-0 -mt-36">
+    <img :src="Logo" alt="NR" class="w-36 md:w-56 mx-auto mb-32 md:mb-24 img-fade md:-mt-0 -mt-36">
     <p class="text-2xl md:text-4xl text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
@@ -28,10 +28,10 @@
       </h1>
 
       <p class="text-base md:text-3xl font-light mb-4 md:mb-24 animate-fade-in-delay">
-        Minggu, 12 Oktober 2025
+        Ahad, 12 Oktober 2025
       </p>
 
-      <p class="text-lg md:text-xl font-light mb-2 md:mt-14 object-right text-stone-300 animate-fade-in-delay hidden md:block">
+      <p class="text-sm md:text-xl font-light mb-2 mt-14 object-right text-stone-300 animate-fade-in-delay">
         Mengundang dengan penuh rasa bahagia
       </p>
 

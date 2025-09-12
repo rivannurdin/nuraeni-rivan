@@ -6,7 +6,7 @@
           Akad & Resepsi
         </h2>
 
-        <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Minggu, 12 Oktober 2025</p>
+        <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Ahad, 12 Oktober 2025</p>
         <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB - Selesai</p>
         <p class="mb-6"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
         <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"

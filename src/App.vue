@@ -11,7 +11,6 @@ import Thanks from './components/Thanks.vue';
 import Wish from './components/Wish.vue';
 
 const guestName = ref("");
-const phone = ref("");
 
 onMounted(() => {
   const urlParams = new URLSearchParams(window.location.search);
