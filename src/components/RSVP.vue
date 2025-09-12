@@ -15,7 +15,7 @@
     <p
       class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-8 animate-fade-in-delay"
     >
-      Merupakan kebahagiaan mendalam bagi kami apabila Bapak/Ibu/Saudara/i
+      Merupakan kebahagiaan mendalam bagi kami apabila Bapak, Ibu dan Teman-teman
       berkenan hadir, serta mendoakan dan merestui langkah kami pada hari
       yang penuh makna ini.
     </p>
