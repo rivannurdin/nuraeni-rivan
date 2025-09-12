@@ -9,6 +9,7 @@ import Ayat from './components/Ayat.vue';
 import BrideGroom from './components/BrideGroom.vue';
 import Thanks from './components/Thanks.vue';
 import Wish from './components/Wish.vue';
+import Music from './components/Music.vue';
 
 const guestName = ref("");
 
@@ -28,6 +29,7 @@ onMounted(() => {
 <template>
 
   <div class="bg-black text-white">
+    <Music />
     <Hero :guest="guestName"/>
     <Ayat />
     <BrideGroom />

@@ -46,9 +46,9 @@
 
 <script setup>
 // Import gambar
-import Logo from "/Logo.png";
-import Ipunk from "/Ipang.png";
-import Utay from "/Utay.png";
+import Logo from "../assets/img/Logo.png";
+import Ipunk from "../assets/img/Ipang.png";
+import Utay from "../assets/img/Utay.png";
 
 const coupleNames = "Nuraeni & Rivan";
 
