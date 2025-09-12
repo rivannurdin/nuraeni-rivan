@@ -25,7 +25,7 @@
     </p>
 
     <div class="relative z-10 max-w-3xl">
-      <h1 class="text-3xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
+      <h1 class="text-4xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
         {{ coupleNames }}
       </h1>
 
