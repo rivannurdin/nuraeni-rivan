@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "firebase": "^12.2.1",
-    "vue": "^3.4.35"
+    "vue": "^3.4.35",
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.4",

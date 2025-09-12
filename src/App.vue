@@ -15,16 +15,7 @@ const phone = ref("");
 
 onMounted(() => {
   const urlParams = new URLSearchParams(window.location.search);
-  const from = urlParams.get("from");
   const to = urlParams.get("to");
-
-  if (from === "Ipunk") {
-    phone.value = "6289606936663";
-  } else if (from === "Utay") {
-    phone.value = "6289525261870";
-  } else {
-    phone.value = "6289525261870"
-  }
 
   if (to) {
     guestName.value = to.replace(/\+/g, " ");
@@ -42,7 +33,7 @@ onMounted(() => {
     <Ayat />
     <BrideGroom />
     <Event />
-    <RSVP :guest="guestName" :phone="phone" />
+    <RSVP />
     <Gift />
     <Thanks />
     <Wish />
