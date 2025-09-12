@@ -12,7 +12,7 @@
 
     <!-- 🔽 Section Rahasia -->
     <transition name="fade">
-      <div v-if="showRSVP" class="max-w-5xl mx-auto px-4 pb-10 space-y-10">
+      <div v-if="showRSVP" class="max-w-4xl mx-auto px-4 pb-10 space-y-10">
         
         <!-- 🎯 Form Generate Link -->
         <div class="bg-white/5 backdrop-blur-sm p-6 rounded-2xl shadow-lg">

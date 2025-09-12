@@ -1,12 +1,12 @@
 <template>
   <section class="min-h-screen bg-gradient-to-b text-white">
     <h2
-      class="text-2xl md:text-3xl mb-8 text-center text-stone-300"
+      class="text-2xl md:text-3xl mb-8 text-cente"
     >
       Daftar Konfirmasi Kehadiran
     </h2>
 
-    <div class="max-w-4xl mx-auto overflow-x-auto bg-white/5 backdrop-blur-sm rounded-2xl shadow-lg p-6">
+    <div class="max-w-5xl mx-auto overflow-x-auto bg-white/5 backdrop-blur-sm rounded-2xl shadow-lg p-6">
       <table class="min-w-full text-left text-sm md:text-base">
         <thead class="border-b border-white/10 text-stone-300">
           <tr>
