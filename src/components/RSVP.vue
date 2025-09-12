@@ -39,7 +39,7 @@
         <select
           v-model="status"
           required
-          class="w-full px-4 py-3 rounded-lg text-stone-700 focus:outline-none focus:ring-2 focus:ring-stone-400"
+          class="w-full px-3 py-2 rounded-lg text-stone-700 focus:outline-none focus:ring-2 focus:ring-stone-400"
         >
           <option value="" disabled>Pilih salah satu</option>
           <option value="Bersedia Hadir">Bersedia Hadir</option>
