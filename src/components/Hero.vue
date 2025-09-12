@@ -23,8 +23,8 @@
     <p class="text-base md:text-3xl mb-4 text-stone-300 animate-fade-in-delay">The wedding of</p>
 
     <div class="relative z-10 max-w-3xl">
-      <h1 class="text-3xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
-        {{ coupleNames }}
+      <h1 class="text-4xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
+        Nuraeni &<br>Rivan
       </h1>
 
       <p class="text-base md:text-3xl font-light mb-4 md:mb-24 animate-fade-in-delay text-stone-300">
