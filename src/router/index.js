@@ -3,7 +3,7 @@ import Home from '../App.vue'
 import RSVPList from '../pages/RsvpList.vue'
 
 const router = createRouter({
-  history: createWebHistory('/nuraeni-rivan'),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: '/', component: Home },
     { path: '/rsvp-list', component: RSVPList },
