@@ -19,13 +19,13 @@
       />
     </div>
     
-    <img :src="Logo" alt="NR" class="w-40 md:w-64 mx-auto mb-24 img-fade md:-mt-0 -mt-36">
+    <img :src="Logo" alt="NR" class="w-44 md:w-80 mx-auto mb-24 md:mb-16 img-fade md:-mt-0 -mt-36">
     <p class="text-2xl md:text-4xl mb-1 text-stone-300 animate-fade-in-delay" style="font-family: 'Allura', cursive;">
       The wedding of
     </p>
 
     <div class="relative z-10 max-w-3xl">
-      <h1 class="text-4xl md:text-7xl tracking-wide mb-2 animate-fade-in" style="font-family: 'Cinzel Decorative';">
+      <h1 class="text-4xl md:text-8xl tracking-wide mb-2 font-medium animate-fade-in">
         {{ coupleNames }}
       </h1>
 
