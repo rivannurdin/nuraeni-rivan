@@ -1,17 +1,21 @@
 <template>
   <section id="gift" class="py-16 px-6 text-center bg-black text-white">
 
-    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4" style="font-family: 'Allura', cursive;">
-      Wedding Gift
-    </h2>
+    <div data-aos="fade-up">
+        <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4" style="font-family: 'Allura', cursive;">
+        Wedding Gift
+      </h2>
+    </div>
 
-    <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay text-stone-300">
-      Doa restu Anda adalah anugerah terindah bagi kami. Namun bila tanda kasih ingin Anda titipkan, dengan penuh syukur dapat disampaikan melalui:
-    </p>
+    <div data-aos="fade-up">
+      <p class="max-w-xl md:max-w-3xl mx-auto md:text-lg font-light mb-10 animate-fade-in-delay text-stone-300">
+        Doa restu Anda adalah anugerah terindah bagi kami. Namun bila tanda kasih ingin Anda titipkan, dengan penuh syukur dapat disampaikan melalui:
+      </p>
+    </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto animate-fade-in-delay">
     
-      <div class="border border-white/10 rounded-2xl shadow-lg">
+      <div class="border border-white/10 rounded-2xl shadow-lg" data-aos="fade-right">
         <!-- Header toggle -->
         <button 
           @click="isBankOpen = !isBankOpen"
@@ -27,35 +31,35 @@
           class="px-6 pb-6 transition-all duration-500"
           :class="isBankOpen ? 'block' : 'hidden md:block'"
         >
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
-            <div>
-              <p class="mb-1 font-medium">Bank BRI</p>
-              <p class="mb-1 font-semibold">346901080776535</p>
-              <p class="mb-4">a.n. Nuraeni Astuti</p>
-              <button
-                @click="copyToClipboard('346901080776535')"
-                class="px-4 py-2 bg-stone-600 text-white mb-4 rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
-              >
-                Salin No. Rekening
-              </button>
-            </div>
-            <div>
-              <p class="mb-1 font-medium">Bank BCA</p>
-              <p class="mb-1 font-semibold">8320588520</p>
-              <p class="mb-4">a.n. Rivan Nurdin</p>
-              <button
-                @click="copyToClipboard('8320588520')"
-                class="px-4 py-2 bg-stone-600 text-white rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
-              >
-                Salin No. Rekening
-              </button>
-            </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-left">
+          <div>
+            <p class="mb-1 font-medium">Bank BRI</p>
+            <p class="mb-1 font-semibold">346901080776535</p>
+            <p class="mb-4">a.n. Nuraeni Astuti</p>
+            <button
+              @click="copyToClipboard('346901080776535')"
+              class="px-4 py-2 bg-stone-600 text-white mb-4 rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
+            >
+              Salin No. Rekening
+            </button>
+          </div>
+          <div>
+            <p class="mb-1 font-medium">Bank BCA</p>
+            <p class="mb-1 font-semibold">8320588520</p>
+            <p class="mb-4">a.n. Rivan Nurdin</p>
+            <button
+              @click="copyToClipboard('8320588520')"
+              class="px-4 py-2 bg-stone-600 text-white rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
+            >
+              Salin No. Rekening
+            </button>
           </div>
         </div>
       </div>
+    </div>
 
     <!-- Alamat Rumah -->
-    <div class="border border-white/10 rounded-xl shadow-lg">
+    <div class="border border-white/10 rounded-xl shadow-lg" data-aos="fade-left">
       <!-- Header toggle -->
       <button 
         @click="isAlamatOpen = !isAlamatOpen"
@@ -76,7 +80,6 @@
         <p class="mb-4"><a href="https://maps.app.goo.gl/KjZeLsMmi2HFKGtXA">Sekemerak No.131 RT 04 RW18, Cibeunying, Cimenyan, Kabupaten Bandung </a></p>
       </div>
     </div>
-
   </div>    
 
     <!-- Alert Copy -->

@@ -1,22 +1,34 @@
 <template>
   <section id="event" class="relative py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
     <div class="grid grid-cols-1 max-w-3xl mx-auto animate-fade-in-delay">
-      <div class="border border-white/10 rounded-2xl p-10 shadow-lg hover:shadow-xl">
-        <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-6" style="font-family: 'Allura', cursive;">
-          Akad & Resepsi
-        </h2>
+      <div class="border border-white/10 rounded-2xl p-10 shadow-lg hover:shadow-xl" data-aos="fade-up">
+          <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-6" style="font-family: 'Allura', cursive;">
+            Akad & Resepsi
+          </h2>
 
-        <p class="mb-1"><i class="fa-solid fa-calendar-days mr-2"></i>Ahad, 12 Oktober 2025</p>
-        <p class="mb-1"><i class="fa-solid fa-clock mr-2"></i>10:00 WIB - Selesai</p>
-        <p class="mb-6"><i class="fa-solid fa-location-dot mr-2"></i>KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung</p>
-        <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
-          Google Maps
-        </a>
+          <div data-aos="fade-up">
+            <p class="mb-1 animate-fade-in-delay">
+              <i class="fa-solid fa-calendar-days mr-2"></i>
+              Ahad, 12 Oktober 2025
+            </p>
+            <p class="mb-1 animate-fade-in-delay">
+              <i class="fa-solid fa-clock mr-2"></i>
+              10:00 WIB - Selesai
+            </p>
+            <p class="mb-6 animate-fade-in-delay">
+              <i class="fa-solid fa-location-dot mr-2"></i>
+              KP. Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung
+            </p>
 
-        <div class="mt-12 md:mt-16">
+            <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
+              Google Maps
+            </a>
+          </div>
+
+        <div class="mt-12 md:mt-16" data-aos="fade-down">
           <hr class="border-white/10 md:border-transparent pb-6 md:pb-0">
           <div class="flex justify-center md:gap-4 text-center">
             <div class="px-4 py-3">

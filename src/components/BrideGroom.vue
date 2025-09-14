@@ -1,24 +1,24 @@
 <template>
   <section id="bride_groom" class="relative py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white text-center">
-   <div class="w-full max-w-2xl mx-auto">
+   <div class="w-full max-w-2xl mx-auto" data-aos="fade-up">
       <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-16" style="font-family: 'Allura', cursive;">
         Bride &<br>Groom
       </h2>
 
-      <div class="grid grid-cols-1 text-left">
+      <div class="grid grid-cols-1 text-left" data-aos="fade-right">
         <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">
           Nuraeni Astuti
         </h2>
-        <p class="mb-1 text-sm md:text-base text-stone-300">Putri ketiga dari<br>Bapak H Undang Daman (Alm) & <br>Ibu Ai Komala</p>
+        <p class="mb-1 text-sm md:text-base text-stone-300" data-aos="fade-right">Putri ketiga dari<br>Bapak H Undang Daman (Alm) & <br>Ibu Ai Komala</p>
       </div>
 
-      <p class="py-16 text-2xl md:text-4xl" style="font-family: 'Allura', cursive;">dengan</p>
+      <p class="py-16 text-2xl md:text-4xl" style="font-family: 'Allura', cursive;" data-aos="fade-up">dengan</p>
 
-      <div class="grid text-right">
+      <div class="grid text-right" data-aos="fade-left">
         <h2 class="text-3xl md:text-5xl mb-2 animate-fade-in-delay font-serif">
           Rivan Nurdin S.Kom
         </h2>
-        <p class="mb-1 text-sm md:text-base text-stone-300">Putra kedua dari<br>Bapak Ade Saefudin (Alm) &<br>Ibu Sri Rochayani</p>
+        <p class="mb-1 text-sm md:text-base text-stone-300" data-aos="fade-left">Putra kedua dari<br>Bapak Ade Saefudin (Alm) &<br>Ibu Sri Rochayani</p>
       </div>
     </div>
   </section>

@@ -1,12 +1,12 @@
 <template>
   <section id="ayat" class="relative py-16 md:py-40 px-6 bg-gradient-to-b from-black to-stone-900 text-stone-300 text-center">
-    <div class="w-full max-w-2xl mx-auto mb-14">
+    <div class="w-full max-w-2xl mx-auto mb-14" data-aos="fade-down">
       <p class="text-sm md:text-lg mb-5 animate-fade-in-delay">وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُوْنَ</p>
       <p class="text-xs md:text-base italic animate-fade-in-delay">"Segala sesuatu Kami ciptakan berpasang-pasangan agar kamu mengingat (kebesaran Allah)."</p>
       <p class="text-xs md:text-base mb-10 animate-fade-in-delay">(Q.S. Adz-Dzariyat Ayat 49)</p>
     </div>
     
-    <div class="w-full max-w-2xl mx-auto">
+    <div class="w-full max-w-2xl mx-auto" data-aos="fade-up">
       <p class="text-sm md:text-lg mb-5 animate-fade-in-delay">وَمِنْ اٰيٰتِهٖٓ اَنْ خَلَقَ لَكُمْ مِّنْ اَنْفُسِكُمْ اَزْوَاجًا لِّتَسْكُنُوْٓا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَّوَدَّةً وَّرَحْمَةًۗ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ</p>
       <p class="text-xs md:text-base italic animate-fade-in-delay">"Di antara tanda-tanda (kebesaran)-Nya ialah bahwa Dia menciptakan pasangan-pasangan untukmu dari (jenis) dirimu sendiri agar kamu merasa tenteram kepadanya. Dia menjadikan di antaramu rasa cinta dan kasih sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir."</p>
       <p class="text-xs md:text-base mb-10 animate-fade-in-delay">(Q.S. Ar Rum Ayat 21)</p>
