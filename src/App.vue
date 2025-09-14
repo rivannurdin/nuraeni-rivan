@@ -29,7 +29,7 @@ onMounted(() => {
 
 <template>
 
-  <div class="bg-black text-white">
+  <div class="bg-black text-white overflow-hidden">
     <Music />
     <Loading />
     <Hero :guest="guestName"/>
