@@ -1,7 +1,7 @@
 <template>
   <section id="wish" class="py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white text-center">
 
-    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4 text-stone-300" style="font-family: 'Allura', cursive;">
+    <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4" style="font-family: 'Allura', cursive;">
       Wedding Wish
     </h2>
 
