@@ -25,7 +25,7 @@
      <div data-aos="fade-up">
       <form
         @submit.prevent="addRSVP"
-        class="max-w-2xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-stone-900/10 backdrop-blur-sm border border-white/10 rounded-2xl shadow-lg"
+        class="max-w-2xl mx-auto animate-fade-in-delay p-6 md:p-8 bg-stone-900/10 backdrop-blur-sm md:border md:border-white/10 rounded-2xl shadow-lg"
       >
         <!-- Input Nama -->
         <div class="mb-6">
@@ -48,7 +48,7 @@
           >
             <option value="" disabled>Pilih salah satu</option>
             <option value="Bersedia Hadir">Bersedia Hadir</option>
-            <option value="Berhalangan Hadir">Berhalangan Hadir</option>
+            <option value="Berhalangan">Berhalangan</option>
           </select>
         </div>
 

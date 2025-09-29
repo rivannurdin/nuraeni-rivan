@@ -2,10 +2,11 @@
     <!-- Tombol toggle musik -->
     <button
         @click="toggleMusic"
-        class="fixed bottom-6 right-6 z-50 bg-stone-800   p-4 rounded-full shadow-lg hover:bg-stone-600 transition opacity-80"
+        class="fixed bottom-10 right-6 md:bottom-14 md:right-14 z-50 bg-stone-800 w-12 h-12 flex items-center justify-center rounded-full shadow-lg hover:bg-stone-600 transition opacity-80 text"
     >
-        <i :class="isPlaying ? 'fa-solid fa-pause' : 'fa-solid fa-music'"></i>
+    <i :class="isPlaying ? 'fa-solid fa-pause' : 'fa-solid fa-music'"></i>
     </button>
+
 
     <!-- Audio -->
     <audio ref="audioRef" loop>
