@@ -1,7 +1,7 @@
 <template>
   <section
     id="thanks"
-    class="py-16 px-6 bg-gradient-to-b from-black to-stone-900 text-white">
+    class="py-16 px-6 bg-gradient-to-b from-black to-stone-900  ">
     <div class="grid grid-cols-1 md:grid-cols-1 max-w-3xl mx-auto" data-aos="zoom-in">
       <div class=" text-center animate-fade-in">
         <p class="text-xl md:text-2xl leading-relaxed pb-6">

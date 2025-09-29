@@ -1,5 +1,5 @@
 <template>
-  <section id="bride_groom" class="relative py-16 px-6 bg-gradient-to-b from-stone-900 to-black text-white text-center">
+  <section id="bride_groom" class="relative py-16 px-6 bg-gradient-to-b from-stone-900 to-black   text-center">
    <div class="w-full max-w-2xl mx-auto" data-aos="fade-up">
       <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-16" style="font-family: 'Allura', cursive;">
         Bride &<br>Groom

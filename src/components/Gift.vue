@@ -1,5 +1,5 @@
 <template>
-  <section id="gift" class="py-16 px-6 text-center bg-black text-white">
+  <section id="gift" class="py-16 px-6 text-center bg-black  ">
 
     <div data-aos="fade-up">
         <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-4" style="font-family: 'Allura', cursive;">
@@ -38,7 +38,7 @@
             <p class="mb-4">a.n. Nuraeni Astuti</p>
             <button
               @click="copyToClipboard('346901080776535')"
-              class="px-4 py-2 bg-stone-600 text-white mb-4 rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
+              class="px-4 py-2 bg-stone-600   mb-4 rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
             >
               Salin No. Rekening
             </button>
@@ -49,7 +49,7 @@
             <p class="mb-4">a.n. Rivan Nurdin</p>
             <button
               @click="copyToClipboard('8320588520')"
-              class="px-4 py-2 bg-stone-600 text-white rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
+              class="px-4 py-2 bg-stone-600   rounded-full text-xs font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
             >
               Salin No. Rekening
             </button>
@@ -75,9 +75,9 @@
         class="px-6 pb-6 transition-all duration-500 text-left"
         :class="isAlamatOpen ? 'block' : 'hidden md:block'"
       >
-        <p class="mb-4"><a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw">KP. Ciwidara RT 05 RW 14, Desa/Kecamatan Pangalengan, Kabupaten Bandung </a></p>
+        <p class="mb-4"><a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw">Ciwidara RT 05 RW 14, Pangalengan, Kabupaten Bandung </a></p>
         <hr class="p-1 border-white/10">
-        <p class="mb-4"><a href="https://maps.app.goo.gl/KjZeLsMmi2HFKGtXA">Sekemerak No.131 RT 04 RW18, Cibeunying, Cimenyan, Kabupaten Bandung </a></p>
+        <p class="mb-4"><a href="https://maps.app.goo.gl/KjZeLsMmi2HFKGtXA">Sekemerak No.131 RT 04 RW 18, Cibeunying, Cimenyan, Kabupaten Bandung </a></p>
       </div>
     </div>
   </div>    

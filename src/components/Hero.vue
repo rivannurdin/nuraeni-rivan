@@ -1,5 +1,5 @@
 <template>
-  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black text-white overflow-hidden md:-mb-0 -mb-16">
+  <section class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 bg-black   overflow-hidden md:-mb-0 -mb-16">
     <div class="absolute inset-0 flex justify-center items-center -z-20 opacity-10">
       <div class="w-[600px] h-[600px] rounded-full bg-stone-600 blur-3xl"></div>
     </div>
@@ -39,7 +39,7 @@
 
       <p v-if="guest" class="text-md md:text-3xl italic mb-8 px-6 py-3 shadow-sm animate-bounce-slow">Kepada Yth. <span class="font-bold">{{ guest }}</span></p>
 
-      <a href="#ayat" id="open-invitation" class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
+      <a href="#ayat" id="open-invitation" class="w-full md:w-auto bg-stone-600   text-sm md:text-base font-semibold px-6 py-3 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
         <i class="fa-solid fa-envelope-open mr-2"></i> Lihat
       </a>
     </div>

@@ -1,5 +1,5 @@
 <template>
-  <section id="event" class="relative py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900 text-white text-center">
+  <section id="event" class="relative py-16 md:py-36 px-6 bg-gradient-to-b from-black to-stone-900   text-center">
     <div class="grid grid-cols-1 max-w-3xl mx-auto animate-fade-in-delay">
       <div class="border border-white/10 rounded-2xl p-10 shadow-lg hover:shadow-xl" data-aos="fade-up">
           <h2 class="text-4xl md:text-5xl animate-fade-in-delay mb-6" style="font-family: 'Allura', cursive;">
@@ -23,7 +23,7 @@
             <a href="https://goo.gl/maps/5VPDckBhideq3kz27?g_st=aw"
               target="_blank"
               rel="noopener noreferrer"
-              class="px-4 py-2 bg-stone-600 text-white rounded-full text-sm font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
+              class="px-4 py-2 bg-stone-600   rounded-full text-sm font-semibold shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105">
               Google Maps
             </a>
           </div>

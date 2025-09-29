@@ -1,5 +1,5 @@
 <template>
-  <section class="min-h-screen bg-gradient-to-b text-white">
+  <section class="min-h-screen bg-gradient-to-b  ">
     <h2
       class="text-2xl md:text-3xl mb-8 text-cente"
     >
@@ -28,14 +28,14 @@
             >
               {{ r.status }}
             </td>
-            <td class="py-3 px-4 text-white/70">
+            <td class="py-3 px-4  /70">
               {{ formatDate(r.createdAt) }}
             </td>
           </tr>
         </tbody>
       </table>
 
-      <p v-if="!rsvpList.length" class="text-center text-white/60 py-6">
+      <p v-if="!rsvpList.length" class="text-center  /60 py-6">
         Belum ada konfirmasi masuk 🙏
       </p>
     </div>

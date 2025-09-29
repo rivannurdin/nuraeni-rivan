@@ -2,7 +2,7 @@
     <div>
         <div
         v-if="isLoading"
-        class="fixed inset-0 z-50 bg-black flex flex-col items-center justify-center text-white"
+        class="fixed inset-0 z-50 bg-black flex flex-col items-center justify-center  "
         >
         <img
             src="../assets/img/Logo.png"

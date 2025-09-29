@@ -1,12 +1,12 @@
 <template>
-  <footer id="closing" class="bg-black text-white text-center border-t border-white/10">
-    <div class="py-6 px-6 text-sm text-white/60">
+  <footer id="closing" class="bg-black   text-center border-t border-white/10">
+    <div class="py-6 px-6 text-sm  /60">
       <!-- 🔒 Trigger klik -->
-      <p @click="toggleRSVP" class="cursor-pointer hover:text-white transition">
+      <p @click="toggleRSVP" class="cursor-pointer hover:  transition">
         © 2025 Designed & Developed by
       </p>
       <p>
-        <a href="https://rivannurdin.github.io" target="_blank" class="text-white">Rivan Nurdin</a> 😎
+        <a href="https://rivannurdin.github.io" target="_blank" class=" ">Rivan Nurdin</a> 😎
       </p>
     </div>
 
@@ -28,11 +28,11 @@
               type="text"
               :value="generatedLink"
               readonly
-              class="w-full px-3 py-2 rounded-lg bg-black/30 text-white text-sm"
+              class="w-full px-3 py-2 rounded-lg bg-black/30   text-sm"
             />
             <button
               @click="copyLink"
-              class="px-4 py-2 bg-stone-600 text-white rounded-lg text-sm hover:bg-stone-800 transition"
+              class="px-4 py-2 bg-stone-600   rounded-lg text-sm hover:bg-stone-800 transition"
             >
               Salin
             </button>

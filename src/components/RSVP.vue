@@ -1,7 +1,7 @@
 <template>
   <section
     id="rsvp"
-    class="py-16 px-6 text-center bg-gradient-to-b from-stone-900 to-black text-white"
+    class="py-16 px-6 text-center bg-gradient-to-b from-stone-900 to-black  "
   >
     <!-- Judul -->
      <div data-aos="fade-up">
@@ -55,7 +55,7 @@
         <!-- Tombol -->
         <button
           type="submit"
-          class="w-full md:w-auto bg-stone-600 text-white text-sm md:text-base font-semibold px-6 py-2 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
+          class="w-full md:w-auto bg-stone-600   text-sm md:text-base font-semibold px-6 py-2 rounded-full shadow-md hover:bg-stone-700 hover:shadow-lg transition transform hover:scale-105"
         >
         <i class="fa-solid fa-paper-plane mr-2"></i>Kirim
         </button>

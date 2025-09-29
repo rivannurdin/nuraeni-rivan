@@ -2,7 +2,7 @@
     <!-- Tombol toggle musik -->
     <button
         @click="toggleMusic"
-        class="fixed bottom-6 right-6 z-50 bg-stone-800 text-white p-4 rounded-full shadow-lg hover:bg-stone-600 transition opacity-80"
+        class="fixed bottom-6 right-6 z-50 bg-stone-800   p-4 rounded-full shadow-lg hover:bg-stone-600 transition opacity-80"
     >
         <i :class="isPlaying ? 'fa-solid fa-pause' : 'fa-solid fa-music'"></i>
     </button>
